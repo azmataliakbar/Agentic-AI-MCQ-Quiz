@@ -1,1 +1,2 @@
-Streamlit, version 1.46.0
+# Create requirements.txt
+streamlit>=1.46.0
