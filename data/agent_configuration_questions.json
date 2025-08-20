@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Agent configuration defines:",
+    "options": [
+      "Agent's hobbies",
+      "How an agent behaves and responds",
+      "User passwords",
+      "File storage size"
+    ],
+    "correct": 1,
+    "level": "easy"
+  },
+  {
+    "question": "Which of these is part of configuration?",
+    "options": [
+      "System prompt",
+      "Background music",
+      "Power supply",
+      "Image filters"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Without configuration, an agent will:",
+    "options": [
+      "Fail to run properly",
+      "Always give random jokes",
+      "Be more secure",
+      "Only answer in binary"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "A configuration usually contains:",
+    "options": [
+      "Model choice",
+      "Response style",
+      "Tool settings",
+      "All of the above"
+    ],
+    "correct": 3,
+    "level": "easy"
+  },
+  {
+    "question": "Changing configuration can:",
+    "options": [
+      "Change agent's output behavior",
+      "Change computer speed",
+      "Delete files",
+      "Compress data"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

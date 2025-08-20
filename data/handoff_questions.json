@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Handoff means:",
+    "options": [
+      "Passing a request from one agent to another",
+      "Stopping all agents",
+      "Logging out of system",
+      "Restarting code"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Handoff is useful for:",
+    "options": [
+      "Delegating tasks",
+      "Compressing files",
+      "Downloading videos",
+      "Formatting code"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Example of handoff:",
+    "options": [
+      "A travel agent calling a payment agent for billing",
+      "Playing music",
+      "Printing a PDF",
+      "Copy-pasting text"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Without handoff, agents may:",
+    "options": [
+      "Get stuck with tasks outside their scope",
+      "Run faster",
+      "Store passwords",
+      "Delete logs"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Which is NOT a benefit of handoff?",
+    "options": [
+      "Specialization",
+      "Scalability",
+      "Task sharing",
+      "File compression"
+    ],
+    "correct": 3,
+    "level": "easy"
+  }
+]

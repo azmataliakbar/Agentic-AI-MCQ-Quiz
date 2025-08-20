@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Context means:",
+    "options": [
+      "Information given to the agent to guide responses",
+      "Only system logs",
+      "Storage path",
+      "Encryption key"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Example of context:",
+    "options": [
+      "User's last question",
+      "Conversation history",
+      "Current task details",
+      "All of the above"
+    ],
+    "correct": 3,
+    "level": "easy"
+  },
+  {
+    "question": "Without context, agents:",
+    "options": [
+      "Forget conversation flow",
+      "Run faster",
+      "Store passwords",
+      "Only answer in numbers"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Context helps in:",
+    "options": [
+      "Generating relevant answers",
+      "Compressing files",
+      "Drawing images",
+      "Storing passwords"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Context is passed to:",
+    "options": [
+      "The model as input",
+      "The printer",
+      "The USB device",
+      "The keyboard"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is an Agent in Agentic AI?",
+    "options": [
+      "A database storage system",
+      "A program that makes decisions and takes actions",
+      "A CSS framework",
+      "A file compression tool"
+    ],
+    "correct": 1,
+    "level": "easy"
+  },
+  {
+    "question": "Which language is often used to build Agents?",
+    "options": [
+      "Python",
+      "HTML",
+      "CSS",
+      "Excel"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Agents interact with the outside world using?",
+    "options": [
+      "Guardrails",
+      "Tools",
+      "SQL",
+      "Browsers only"
+    ],
+    "correct": 1,
+    "level": "easy"
+  },
+  {
+    "question": "Which is NOT an example of an Agent?",
+    "options": [
+      "Chatbot",
+      "Weather Assistant",
+      "Calculator function",
+      "Zip file extractor"
+    ],
+    "correct": 3,
+    "level": "easy"
+  },
+  {
+    "question": "An Agent can:",
+    "options": [
+      "Only send emails",
+      "Take actions and return results",
+      "Only store data",
+      "Only translate text"
+    ],
+    "correct": 1,
+    "level": "easy"
+  }
+]

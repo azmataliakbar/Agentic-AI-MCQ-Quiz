@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Tools are:",
+    "options": [
+      "Functions an agent can call to perform actions",
+      "Only hardware devices",
+      "Password generators",
+      "Browser extensions only"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Example of a tool:",
+    "options": [
+      "Weather API",
+      "Calculator function",
+      "Database fetch",
+      "All of the above"
+    ],
+    "correct": 3,
+    "level": "easy"
+  },
+  {
+    "question": "Tools connect:",
+    "options": [
+      "Agents with external systems",
+      "Agents with USB devices only",
+      "Python with CSS",
+      "Models with music players"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Without tools, agents:",
+    "options": [
+      "Cannot take real actions",
+      "Run faster",
+      "Store more memory",
+      "Write HTML"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Tools are often defined as:",
+    "options": [
+      "Python functions",
+      "Excel sheets",
+      "PowerShell commands only",
+      "CSS stylesheets"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]
