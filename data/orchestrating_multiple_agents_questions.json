@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Orchestration means:",
+    "options": [
+      "Playing music",
+      "Coordinating multiple agents",
+      "Stopping execution",
+      "Adding guardrails"
+    ],
+    "correct": 1,
+    "level": "easy"
+  },
+  {
+    "question": "Why use multiple agents?",
+    "options": [
+      "Each can specialize in tasks",
+      "They run slower",
+      "They reduce safety",
+      "They remove streaming"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Example of orchestration:",
+    "options": [
+      "One agent for weather, another for translation",
+      "One agent doing nothing",
+      "Only one agent handling everything",
+      "Guardrails blocking execution"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "What helps agents work together?",
+    "options": [
+      "Orchestration logic",
+      "Random execution",
+      "Guardrails only",
+      "API keys"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Orchestrating multiple agents can improve:",
+    "options": [
+      "Accuracy and modularity",
+      "Confusion in system",
+      "Slow responses",
+      "Debug errors only"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

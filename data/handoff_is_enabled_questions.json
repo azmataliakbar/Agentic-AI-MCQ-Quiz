@@ -1,0 +1,57 @@
+[
+  {
+    "question": "The is_enabled flag in handoff() indicates:",
+    "options": [
+      "Whether handoff is currently active",
+      "Battery charging status",
+      "The size of memory",
+      "The screen brightness"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "If is_enabled is set to false:",
+    "options": [
+      "The handoff will not take place",
+      "The computer will shut down",
+      "The data will be deleted",
+      "The Wi-Fi will disconnect"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "is_enabled is commonly used to:",
+    "options": [
+      "Turn handoff behavior on or off",
+      "Install drivers",
+      "Resize storage",
+      "Change screen wallpaper"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "An example of using is_enabled is:",
+    "options": [
+      "Disabling handoff until a certain condition is met",
+      "Changing font size",
+      "Shutting down the PC",
+      "Restarting antivirus"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "If you want an agent to skip handoff temporarily, you set:",
+    "options": [
+      "is_enabled = false",
+      "input_type = none",
+      "input_filter = empty",
+      "on_handoff = off"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

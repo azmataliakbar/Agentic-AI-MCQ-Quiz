@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Max Turns in Runner defines:",
+    "options": [
+      "The maximum number of interactions allowed",
+      "The maximum screen brightness",
+      "The maximum battery charge",
+      "The maximum storage size"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why is Max Turns important?",
+    "options": [
+      "It prevents agents from running endlessly",
+      "It increases hard disk size",
+      "It updates antivirus",
+      "It changes system wallpaper"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "If Max Turns is set to 3:",
+    "options": [
+      "The agent stops after 3 exchanges",
+      "The laptop shuts down in 3 hours",
+      "The Wi-Fi disconnects 3 times",
+      "The screen flashes 3 times"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Setting Max Turns too low may:",
+    "options": [
+      "End the conversation before solving the task",
+      "Increase battery health",
+      "Install new drivers",
+      "Delete system files"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Max Turns helps developers:",
+    "options": [
+      "Control resource usage and prevent infinite loops",
+      "Upgrade Wi-Fi speed",
+      "Change screen resolution",
+      "Format hard drives"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

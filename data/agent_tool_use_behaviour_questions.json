@@ -1,0 +1,57 @@
+[
+  {
+    "question": "tool_use_behaviour defines:",
+    "options": [
+      "How and when an agent should call external tools",
+      "The agent’s keyboard shortcuts",
+      "The default file size",
+      "Battery usage of tools"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "An example of tool_use_behaviour is:",
+    "options": [
+      "Agent calling a calculator tool only when math is needed",
+      "Changing laptop wallpaper",
+      "Upgrading antivirus",
+      "Downloading files"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why is tool_use_behaviour important?",
+    "options": [
+      "It ensures tools are used only when relevant",
+      "It increases electricity bills",
+      "It saves hardware cost",
+      "It stops Wi-Fi"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "If an agent always calls a translation tool even when not needed, this is:",
+    "options": [
+      "Bad tool_use_behaviour",
+      "Good cloning",
+      "Dynamic instruction",
+      "Reset tool choice"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "tool_use_behaviour can help with:",
+    "options": [
+      "Efficiency in solving tasks",
+      "Screen brightness",
+      "File deletion",
+      "Wi-Fi passwords"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

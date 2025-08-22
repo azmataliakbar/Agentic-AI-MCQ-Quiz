@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What are guardrails in AI systems?",
+    "options": [
+      "Output formatting rules",
+      "Safety checks",
+      "Logging tools",
+      "Memory storage"
+    ],
+    "correct": 1,
+    "level": "easy"
+  },
+  {
+    "question": "Guardrails help prevent:",
+    "options": [
+      "Valid responses",
+      "Unsafe or unwanted responses",
+      "Model configuration",
+      "Data streaming"
+    ],
+    "correct": 1,
+    "level": "easy"
+  },
+  {
+    "question": "Which is an example of a guardrail?",
+    "options": [
+      "Ensuring no harmful content is generated",
+      "Streaming output",
+      "Increasing Top-K value",
+      "Adding hooks"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why do we use guardrails?",
+    "options": [
+      "To speed up the model",
+      "To enforce safety and reliability",
+      "To make the model larger",
+      "To reduce cost only"
+    ],
+    "correct": 1,
+    "level": "easy"
+  },
+  {
+    "question": "Guardrails can block:",
+    "options": [
+      "Unsafe tool calls",
+      "Normal outputs",
+      "Memory usage",
+      "All responses"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

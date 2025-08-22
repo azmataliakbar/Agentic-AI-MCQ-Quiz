@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Output Types define:",
+    "options": [
+      "The format of results the agent should return",
+      "Which keyboard to use",
+      "The speed of internet",
+      "The type of mouse connected"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Common Output Types include:",
+    "options": [
+      "Text, JSON, structured data",
+      "Only images",
+      "Only audio files",
+      "Only passwords"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why are Output Types important?",
+    "options": [
+      "They ensure the agent’s response matches the expected format",
+      "They control electricity usage",
+      "They secure the Wi-Fi",
+      "They upgrade system memory"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "An agent returning structured JSON instead of plain text is an example of:",
+    "options": [
+      "Different Output Types",
+      "Cloning",
+      "Dynamic Instructions",
+      "Reset tool choice"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "If an application expects a table but the agent gives plain text, this is a problem of:",
+    "options": [
+      "Wrong Output Type",
+      "Slow processor",
+      "Weak battery",
+      "Bad Wi-Fi"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What does streaming allow in AI responses?",
+    "options": [
+      "Sending all output at the end",
+      "Sending partial results as they are generated",
+      "Hiding output from the user",
+      "Only storing results in a file"
+    ],
+    "correct": 1,
+    "level": "easy"
+  },
+  {
+    "question": "Which of the following is a benefit of streaming?",
+    "options": [
+      "Slower response time",
+      "User waits longer",
+      "Early access to partial results",
+      "Output is hidden"
+    ],
+    "correct": 2,
+    "level": "easy"
+  },
+  {
+    "question": "In streaming, how does the model send output?",
+    "options": [
+      "In chunks",
+      "Only once at the end",
+      "As an image",
+      "As encrypted data"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Which is a real-world example of streaming?",
+    "options": [
+      "Watching a YouTube video",
+      "Printing a book",
+      "Downloading a ZIP file before reading",
+      "Taking a photo"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "What Python keyword is often used with streaming?",
+    "options": [
+      "await",
+      "break",
+      "print",
+      "exit"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

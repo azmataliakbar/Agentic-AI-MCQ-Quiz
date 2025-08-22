@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What does 'temperature' control in a model?",
+    "options": [
+      "Creativity/randomness",
+      "Speed",
+      "Safety",
+      "Streaming"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "A higher Top-K value means:",
+    "options": [
+      "Model considers more possible words",
+      "Model only chooses 1 word",
+      "Output becomes safer",
+      "Output stops streaming"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Which setting controls diversity of responses?",
+    "options": [
+      "Top P",
+      "Guardrails",
+      "Hooks",
+      "Tracing"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Which setting decides if the model can call functions/tools?",
+    "options": [
+      "Tool choices",
+      "Guardrails",
+      "Tracing",
+      "Temperature"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Setting temperature = 0 makes output:",
+    "options": [
+      "More deterministic",
+      "Very random",
+      "Unsafe",
+      "Longer"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

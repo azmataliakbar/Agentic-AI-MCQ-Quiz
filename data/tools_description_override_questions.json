@@ -1,0 +1,57 @@
+[
+  {
+    "question": "description_override in Tools is used to:",
+    "options": [
+      "Provide a custom explanation of what the tool does",
+      "Change the agent’s name",
+      "Update system drivers",
+      "Install new fonts"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why use description_override?",
+    "options": [
+      "To make tool descriptions clearer for the model",
+      "To change laptop resolution",
+      "To reset RAM",
+      "To delete system logs"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "An example of description_override is:",
+    "options": [
+      "Updating a tool’s description from 'math tool' to 'performs addition and subtraction'",
+      "Changing desktop theme",
+      "Updating antivirus",
+      "Renaming a file"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "description_override helps the model:",
+    "options": [
+      "Understand better when to use a tool",
+      "Save more battery",
+      "Shut down faster",
+      "Connect to Wi-Fi"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "description_override modifies:",
+    "options": [
+      "The tool’s description text",
+      "The agent’s memory size",
+      "The file path",
+      "The operating system"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

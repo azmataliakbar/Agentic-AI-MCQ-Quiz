@@ -1,0 +1,57 @@
+[
+  {
+    "question": "is_enabled in Tools determines:",
+    "options": [
+      "Whether the tool is active or disabled",
+      "The laptop’s charging status",
+      "The amount of RAM",
+      "The type of CPU"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "If is_enabled is set to false:",
+    "options": [
+      "The tool will not be available to the agent",
+      "The computer shuts down",
+      "The Wi-Fi restarts",
+      "The screen brightness changes"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "is_enabled is useful for:",
+    "options": [
+      "Turning tools on or off dynamically",
+      "Upgrading hard disk",
+      "Installing Python",
+      "Resetting Windows"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Example of is_enabled:",
+    "options": [
+      "Disabling a translation tool temporarily",
+      "Changing font color",
+      "Restarting the system",
+      "Renaming a folder"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "is_enabled is typically used in:",
+    "options": [
+      "Tool configuration",
+      "Wi-Fi connection",
+      "Battery charging",
+      "System bootloader"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

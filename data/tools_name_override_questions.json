@@ -1,0 +1,57 @@
+[
+  {
+    "question": "name_override in Tools allows developers to:",
+    "options": [
+      "Give a tool a custom name",
+      "Increase battery health",
+      "Change internet speed",
+      "Format the hard disk"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why use name_override?",
+    "options": [
+      "To make tool names more clear or user-friendly",
+      "To change system wallpaper",
+      "To uninstall programs",
+      "To adjust brightness"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "An example of name_override is:",
+    "options": [
+      "Renaming 'calc_tool' to 'Calculator'",
+      "Changing Wi-Fi name",
+      "Changing keyboard layout",
+      "Renaming the PC"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "name_override is useful when:",
+    "options": [
+      "Multiple tools have similar names",
+      "The computer is overheating",
+      "The antivirus is disabled",
+      "The USB is disconnected"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Which part of a tool does name_override change?",
+    "options": [
+      "The display name",
+      "The algorithm inside",
+      "The hardware connection",
+      "The Wi-Fi password"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

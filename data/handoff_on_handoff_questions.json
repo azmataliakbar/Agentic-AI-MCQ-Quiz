@@ -1,0 +1,57 @@
+[
+  {
+    "question": "on_handoff in handoff() is:",
+    "options": [
+      "A function triggered when handoff occurs",
+      "A Wi-Fi driver",
+      "A system restart button",
+      "A memory reset process"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "on_handoff is useful for:",
+    "options": [
+      "Custom actions when transferring control to another agent",
+      "Measuring battery health",
+      "Changing internet provider",
+      "Installing software"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "An example of on_handoff is:",
+    "options": [
+      "Logging a message whenever handoff happens",
+      "Changing desktop wallpaper",
+      "Opening a video player",
+      "Resetting hard drive"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Without on_handoff, the system:",
+    "options": [
+      "Will still transfer control but without custom logic",
+      "Will stop working",
+      "Will lose all data",
+      "Will uninstall the agent"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "on_handoff allows developers to:",
+    "options": [
+      "Add custom hooks during agent handoff",
+      "Check battery voltage",
+      "Change keyboard keys",
+      "Increase hard disk size"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

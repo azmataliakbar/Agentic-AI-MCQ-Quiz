@@ -1,0 +1,58 @@
+[
+  {
+    "question": "In handoff(), input_type specifies:",
+    "options": [
+      "The kind of data the agent will receive",
+      "The speed of internet",
+      "The battery percentage",
+      "The model name"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Example of input_type is:",
+    "options": [
+      "Text, JSON, or structured data",
+      "Only keyboard keys",
+      "Only mouse clicks",
+      "Only system logs"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why is input_type important in handoff()?",
+    "options": [
+      "It tells the next agent how to interpret incoming data",
+      "It sets internet speed",
+      "It manages CPU temperature",
+      "It updates drivers"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "If input_type is set to JSON, the receiving agent expects:",
+    "options": [
+      "Structured JSON data",
+      "Only images",
+      "Binary code",
+      "Encrypted files"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "input_type is part of:",
+    "options": [
+      "handoff() configuration",
+      "Keyboard settings",
+      "Wi-Fi setup",
+      "System logs"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+
+]

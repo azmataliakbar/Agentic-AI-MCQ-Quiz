@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is a hook?",
+    "options": [
+      "A callback function",
+      "A type of guardrail",
+      "A streaming method",
+      "A tracing tool"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Hooks are triggered:",
+    "options": [
+      "Before/after certain events",
+      "Only once at startup",
+      "Only for errors",
+      "Never"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Agent-level hooks apply to:",
+    "options": [
+      "Whole agent",
+      "Only one function",
+      "Only tracing",
+      "Model settings"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Run-level hooks apply to:",
+    "options": [
+      "A single run/execution",
+      "Entire agent",
+      "API key storage",
+      "Guardrails"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Hooks are useful for:",
+    "options": [
+      "Logging and modifying behavior",
+      "Increasing model size",
+      "Removing streaming",
+      "Randomizing temperature"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

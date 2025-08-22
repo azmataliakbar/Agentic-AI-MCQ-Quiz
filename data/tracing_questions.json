@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Tracing helps developers:",
+    "options": [
+      "Debug and monitor execution",
+      "Hide logs",
+      "Delete outputs",
+      "Encrypt responses"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Which module is often related to tracing in agents?",
+    "options": [
+      "agents.tracing",
+      "agents.security",
+      "agents.storage",
+      "agents.memory"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "What does a trace usually include?",
+    "options": [
+      "Input, execution steps, output",
+      "Random values",
+      "Only errors",
+      "Only API keys"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why is tracing useful?",
+    "options": [
+      "To measure electricity",
+      "To see what the agent did step by step",
+      "To increase temperature setting",
+      "To disable safety"
+    ],
+    "correct": 1,
+    "level": "easy"
+  },
+  {
+    "question": "Tracing can be considered as:",
+    "options": [
+      "Event logging",
+      "Password storage",
+      "Guardrail enforcement",
+      "Streaming data"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

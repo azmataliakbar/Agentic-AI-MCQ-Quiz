@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Structured output means:",
+    "options": [
+      "Returning data in a defined format",
+      "Returning plain text only",
+      "Random results",
+      "Guardrails only"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Example of structured output:",
+    "options": [
+      "JSON",
+      "Free text",
+      "Handwritten notes",
+      "Audio only"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Which library often defines structured outputs in Python?",
+    "options": [
+      "Pydantic",
+      "NumPy",
+      "Matplotlib",
+      "OS"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why do we use structured output?",
+    "options": [
+      "To parse results easily",
+      "To make responses random",
+      "To reduce cost",
+      "To hide tracing"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Structured output helps when:",
+    "options": [
+      "Returning objects from tools",
+      "Generating random jokes",
+      "Guardrails fail",
+      "Streaming stops"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

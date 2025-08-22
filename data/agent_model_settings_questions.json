@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Model Settings control:",
+    "options": [
+      "Parameters like temperature, top_p, top_k",
+      "Laptop brightness",
+      "File storage path",
+      "Operating system updates"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Temperature in Model Settings controls:",
+    "options": [
+      "How random or creative the outputs are",
+      "Laptop CPU heat",
+      "Internet download speed",
+      "Screen resolution"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "top_p in Model Settings means:",
+    "options": [
+      "Probability sampling for diverse outputs",
+      "Power supply voltage",
+      "Password strength",
+      "Photo pixel size"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Model Settings allow developers to:",
+    "options": [
+      "Fine-tune how the agent responds",
+      "Change operating system",
+      "Connect USB devices",
+      "Install new drivers"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Lower temperature values usually make responses:",
+    "options": [
+      "More predictable",
+      "More random",
+      "Invisible",
+      "Encrypted"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

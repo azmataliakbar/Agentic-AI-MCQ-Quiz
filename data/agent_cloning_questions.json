@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Cloning an agent means:",
+    "options": [
+      "Creating a copy of the agent with the same settings",
+      "Deleting an agent",
+      "Changing programming language",
+      "Turning off the system"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Cloning is useful when:",
+    "options": [
+      "You need multiple similar agents with small changes",
+      "You want to stop the program",
+      "You remove all logs",
+      "You shut down the model"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Cloning saves time because:",
+    "options": [
+      "You don’t need to reconfigure everything from scratch",
+      "It replaces RAM",
+      "It compresses files",
+      "It deletes old code"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Which is an example of Cloning?",
+    "options": [
+      "Making a copy of an agent for testing",
+      "Formatting a hard disk",
+      "Installing antivirus",
+      "Updating Wi-Fi drivers"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Cloned agents usually:",
+    "options": [
+      "Keep the same settings as the original",
+      "Lose all instructions",
+      "Stop working instantly",
+      "Need new hardware"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+
+]

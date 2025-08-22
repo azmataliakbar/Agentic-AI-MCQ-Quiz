@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Dynamic Instructions allow an agent to:",
+    "options": [
+      "Change its behavior based on updated input",
+      "Run only one fixed command",
+      "Store files permanently",
+      "Encrypt model weights"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Dynamic Instructions are useful when:",
+    "options": [
+      "The task changes during conversation",
+      "The agent is offline",
+      "The GPU is slow",
+      "The internet is down"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Dynamic Instructions differ from static instructions because:",
+    "options": [
+      "They can update in real time",
+      "They are always the same",
+      "They use more storage",
+      "They replace system hardware"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Which is an example of Dynamic Instructions?",
+    "options": [
+      "Adjusting instructions when a user changes goals",
+      "Saving a fixed instruction file",
+      "Hardcoding agent logic",
+      "Disabling agent outputs"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Dynamic Instructions improve:",
+    "options": [
+      "Flexibility of responses",
+      "Battery timing",
+      "File compression",
+      "Printer speed"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

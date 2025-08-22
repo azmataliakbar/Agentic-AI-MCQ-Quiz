@@ -1,0 +1,57 @@
+[
+  {
+    "question": "A Custom Runner in Agentic AI is used to:",
+    "options": [
+      "Define your own way to execute agents",
+      "Update Wi-Fi drivers",
+      "Change laptop brightness",
+      "Reset system logs"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why use a Custom Runner?",
+    "options": [
+      "To control how agents are run and managed",
+      "To install software updates",
+      "To shut down the computer",
+      "To clean temporary files"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "An example of a Custom Runner is:",
+    "options": [
+      "Creating a runner that logs all inputs and outputs",
+      "Changing keyboard layout",
+      "Uninstalling an app",
+      "Changing wallpaper"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Custom Runner gives developers:",
+    "options": [
+      "Flexibility to extend agent execution behavior",
+      "More RAM in the system",
+      "Extra hard disk space",
+      "Faster Wi-Fi connection"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Which is true about Custom Runner?",
+    "options": [
+      "It can add logging, monitoring, or custom logic to execution",
+      "It disables agent communication",
+      "It deletes conversation history",
+      "It encrypts the Wi-Fi password"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

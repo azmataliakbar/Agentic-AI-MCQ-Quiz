@@ -1,0 +1,57 @@
+[
+  {
+    "question": "failure_error_function in Tools handles:",
+    "options": [
+      "What happens when a tool fails",
+      "Screen brightness",
+      "Battery percentage",
+      "Hard disk size"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why use failure_error_function?",
+    "options": [
+      "To define custom error handling for tools",
+      "To update drivers",
+      "To restart Wi-Fi",
+      "To install new fonts"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "An example of failure_error_function is:",
+    "options": [
+      "Returning a default value if the tool fails",
+      "Changing wallpaper after error",
+      "Shutting down after error",
+      "Increasing brightness after error"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Without failure_error_function:",
+    "options": [
+      "Agent may crash or produce an error",
+      "The computer restarts",
+      "Wi-Fi stops working",
+      "Printer disconnects"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "failure_error_function improves:",
+    "options": [
+      "Reliability and resilience of agents",
+      "Battery life",
+      "Operating system updates",
+      "Screen resolution"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

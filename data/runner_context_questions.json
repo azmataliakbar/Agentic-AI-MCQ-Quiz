@@ -1,0 +1,57 @@
+[
+  {
+    "question": "In Runner, Context means:",
+    "options": [
+      "Information passed to guide the agent’s responses",
+      "The charging status of the battery",
+      "The name of the operating system",
+      "The brightness level of the screen"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Example of Context is:",
+    "options": [
+      "Conversation history or user’s last input",
+      "Only the laptop’s IP address",
+      "The file system path",
+      "The antivirus version"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why is Context important in Runner?",
+    "options": [
+      "It ensures the agent continues the conversation smoothly",
+      "It updates the operating system",
+      "It increases RAM",
+      "It improves battery charge speed"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Without Context, an agent might:",
+    "options": [
+      "Forget the conversation flow",
+      "Shut down the PC",
+      "Encrypt all files",
+      "Install drivers automatically"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Context is usually passed:",
+    "options": [
+      "To the model as input",
+      "To the Wi-Fi router",
+      "To the keyboard",
+      "To the printer"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

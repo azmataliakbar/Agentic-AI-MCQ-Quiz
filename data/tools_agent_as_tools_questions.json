@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Agents can be used as Tools when:",
+    "options": [
+      "One agent acts as a callable tool for another",
+      "Wi-Fi is disconnected",
+      "The laptop is turned off",
+      "The screen is locked"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "custom_output_extractor is used for:",
+    "options": [
+      "Extracting and formatting outputs from an agent-as-tool",
+      "Measuring CPU speed",
+      "Changing wallpaper",
+      "Checking battery voltage"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Why use custom_output_extractor?",
+    "options": [
+      "To get structured results from agent outputs",
+      "To increase RAM",
+      "To reduce Wi-Fi speed",
+      "To uninstall Python"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "An example of Agent as Tool is:",
+    "options": [
+      "A summarizer agent used inside another agent",
+      "A USB driver tool",
+      "A Windows update tool",
+      "A battery monitoring app"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "custom_output_extractor is especially helpful when:",
+    "options": [
+      "The agent’s output needs formatting or parsing",
+      "The computer is overheating",
+      "The system needs a restart",
+      "The Wi-Fi is slow"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Reset_tool_choice is used to:",
+    "options": [
+      "Clear previous tool selections so the agent can pick again",
+      "Turn off the computer",
+      "Delete all code files",
+      "Restart the internet connection"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Reset_tool_choice helps when:",
+    "options": [
+      "The agent is stuck using the wrong tool",
+      "The internet is slow",
+      "The battery is weak",
+      "The system fan is noisy"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Which is an example of Reset_tool_choice?",
+    "options": [
+      "Agent forgets the last calculator tool and tries another option",
+      "Restarting your laptop",
+      "Formatting storage",
+      "Uninstalling Python"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Resetting tool choice makes the agent:",
+    "options": [
+      "Flexible to choose a better tool",
+      "Forget all outputs forever",
+      "Lose battery power",
+      "Stop working"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "If an agent keeps reusing the wrong tool, what fixes it?",
+    "options": [
+      "Reset_tool_choice",
+      "Dynamic Instructions",
+      "Changing Wi-Fi",
+      "Deleting logs"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+]

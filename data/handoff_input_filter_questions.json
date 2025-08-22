@@ -1,0 +1,58 @@
+[
+  {
+    "question": "In handoff(), input_filter is used to:",
+    "options": [
+      "Decide which inputs are allowed or blocked",
+      "Adjust screen brightness",
+      "Store files",
+      "Restart the device"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "input_filter helps by:",
+    "options": [
+      "Filtering out unwanted or invalid data",
+      "Changing keyboard layout",
+      "Installing new software",
+      "Managing Wi-Fi signals"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "An example of input_filter is:",
+    "options": [
+      "Allowing only numbers and ignoring text",
+      "Changing font color",
+      "Resetting RAM",
+      "Running antivirus"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "Without input_filter, an agent might:",
+    "options": [
+      "Process irrelevant or invalid inputs",
+      "Stop using electricity",
+      "Forget the operating system",
+      "Lose Wi-Fi connection"
+    ],
+    "correct": 0,
+    "level": "easy"
+  },
+  {
+    "question": "input_filter is applied:",
+    "options": [
+      "Before passing data to the next agent",
+      "After the system shutdown",
+      "During OS installation",
+      "When saving files to disk"
+    ],
+    "correct": 0,
+    "level": "easy"
+  }
+
+]
