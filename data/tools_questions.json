@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In Agentic AI, what is the primary purpose of Tools?",
+    "options": [
+      "To extend the agent’s abilities beyond its core reasoning",
+      "To manage system power supply",
+      "To secure user login credentials",
+      "To render 3D graphics"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which of the following is an example of an Agent using a Tool?",
+    "options": [
+      "Calling an API to fetch real-time weather data",
+      "Storing user passwords in plain text",
+      "Compiling a C++ program locally",
+      "Changing desktop background color"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why must tool usage often include input/output validation?",
+    "options": [
+      "To ensure the agent interacts safely and reliably with external systems",
+      "To make the agent run faster on low memory devices",
+      "To improve the computer’s graphics rendering",
+      "To reduce storage size of configuration files"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If an Agent overuses tools without reasoning, what issue may occur?",
+    "options": [
+      "Unnecessary API calls leading to inefficiency or errors",
+      "Permanent damage to the operating system",
+      "Automatic loss of configuration files",
+      "Corruption of the agent’s installation package"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "In SDK-based frameworks, a tool is usually defined by:",
+    "options": [
+      "A name, description, and a callable function",
+      "An operating system kernel module",
+      "A database schema",
+      "A graphical user interface theme"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

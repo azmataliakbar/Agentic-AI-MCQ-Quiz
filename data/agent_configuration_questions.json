@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "Why is agent configuration critical in Agentic AI systems?",
+    "options": [
+      "It ensures the agent has a stable internet connection",
+      "It defines goals, constraints, and behaviors for the agent",
+      "It increases the computer's processing power",
+      "It determines how files are compressed"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "Which of the following is MOST influenced by configuration settings?",
+    "options": [
+      "How the agent chooses tools to solve tasks",
+      "The amount of RAM available on the device",
+      "The speed of the operating system kernel",
+      "The encryption level of user passwords"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "What role does a system prompt play in agent configuration?",
+    "options": [
+      "It sets the operating system language",
+      "It defines the agent’s initial reasoning and personality",
+      "It controls memory storage size",
+      "It limits network traffic"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "How can misconfigured agent settings impact performance?",
+    "options": [
+      "Agent may take irrelevant or incorrect actions",
+      "Agent will automatically overclock the CPU",
+      "Agent will permanently disable all external tools",
+      "Agent will become immune to runtime errors"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "In a multi-agent system, why might consistent configuration be important?",
+    "options": [
+      "To synchronize behavior and avoid conflicting actions",
+      "To share the same internet connection",
+      "To keep all agents on the same power supply",
+      "To reduce file sizes during execution"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

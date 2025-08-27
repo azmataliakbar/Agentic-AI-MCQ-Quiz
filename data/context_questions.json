@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In Agentic AI, what does 'context' mainly provide to an agent?",
+    "options": [
+      "Historical information and current input for better reasoning",
+      "The physical storage location of datasets",
+      "A list of encrypted user passwords",
+      "The CPU temperature during execution"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is context critical in multi-turn conversations?",
+    "options": [
+      "It allows the agent to maintain coherence across multiple interactions",
+      "It improves the computer’s memory speed",
+      "It automatically reduces network latency",
+      "It compresses user input for faster storage"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "What might happen if an agent loses context during reasoning?",
+    "options": [
+      "The agent may give irrelevant or inconsistent responses",
+      "The agent will run faster and use less CPU",
+      "The operating system will terminate background apps",
+      "The agent will automatically increase security level"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "In SDK-based frameworks, context is often passed to the agent through:",
+    "options": [
+      "State objects or structured input data",
+      "Database compression algorithms",
+      "System BIOS configuration",
+      "Graphical rendering pipelines"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which of the following best describes 'context window' in LLM-powered agents?",
+    "options": [
+      "The maximum amount of text the model can consider at once",
+      "A GUI panel where context is displayed",
+      "The operating system’s task manager",
+      "The memory allocated for image rendering"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

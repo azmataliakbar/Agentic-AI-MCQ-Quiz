@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "The is_enabled flag in Tools is mainly used to:",
+    "options": [
+      "Enable or disable a tool dynamically",
+      "Check system antivirus updates",
+      "Turn on the device monitor",
+      "Enable Bluetooth pairing"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If is_enabled is set to False, the agent:",
+    "options": [
+      "Will not call or use that tool",
+      "Will uninstall the tool",
+      "Will install extra drivers",
+      "Will restart the system"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why might a developer set is_enabled = False?",
+    "options": [
+      "To temporarily block a tool when it’s not needed",
+      "To improve display brightness",
+      "To lower internet usage",
+      "To save RAM by disabling OS features"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "is_enabled is especially helpful when:",
+    "options": [
+      "You want to control which tools the agent can use at runtime",
+      "You need to change Wi-Fi router settings",
+      "You want to boost CPU clock speed",
+      "You need to save files faster"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Default behavior if is_enabled is not set is usually:",
+    "options": [
+      "The tool remains enabled by default",
+      "The tool is deleted",
+      "The tool is permanently disabled",
+      "The tool is converted into system software"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

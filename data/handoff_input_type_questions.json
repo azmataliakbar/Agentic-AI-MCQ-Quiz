@@ -53,6 +53,61 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In handoff(), input_filter is used to:",
+    "options": [
+      "Restrict or validate the data before sending to the next agent",
+      "Control the model’s response length",
+      "Adjust the CPU usage",
+      "Select the internet provider"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "A common use of input_filter is:",
+    "options": [
+      "Allowing only inputs that meet required conditions",
+      "Changing background themes",
+      "Measuring memory size",
+      "Installing drivers"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is input_filter important in handoff()?",
+    "options": [
+      "It ensures only valid and safe data is passed forward",
+      "It increases laptop battery backup",
+      "It decreases internet lag",
+      "It resets the operating system"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If input_filter rejects an input, the result is:",
+    "options": [
+      "The handoff does not proceed with that data",
+      "The agent restarts automatically",
+      "The input is converted into binary code",
+      "The tool is deleted"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "input_filter is applied:",
+    "options": [
+      "Before passing data to the next agent in handoff()",
+      "After saving data to the database",
+      "During hardware installation",
+      "When connecting to Wi-Fi"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 
 ]

@@ -53,6 +53,61 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "What is the primary benefit of agent cloning?",
+    "options": [
+      "Creating lightweight replicas with preserved behavior",
+      "Reducing the size of the training dataset",
+      "Increasing hardware speed",
+      "Compressing log files"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "When cloning an agent, what is typically preserved?",
+    "options": [
+      "Dynamic state and configuration",
+      "Battery consumption",
+      "Network bandwidth usage",
+      "Database schema"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "How does agent cloning support experimentation?",
+    "options": [
+      "By allowing multiple test scenarios without affecting the original",
+      "By reducing the number of variables to test",
+      "By preventing memory usage",
+      "By disabling monitoring features"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which of the following is a key use case of agent cloning?",
+    "options": [
+      "Simulating different instruction sets",
+      "Improving printer speed",
+      "Encrypting communication",
+      "Performing file compression"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why might a developer clone an agent instead of creating a new one from scratch?",
+    "options": [
+      "To reuse existing logic and avoid reconfiguration",
+      "To increase CPU clock speed",
+      "To reduce file storage needs",
+      "To minimize network latency"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 
 ]

@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "Using an Agent as a Tool allows:",
+    "options": [
+      "One agent to be used as a callable tool by another agent",
+      "Changing the BIOS version",
+      "Speeding up the graphics card",
+      "Adjusting Wi-Fi range"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "custom_output_extractor is used to:",
+    "options": [
+      "Control how the output of an agent-as-tool is returned",
+      "Change the screen color format",
+      "Update the sound driver",
+      "Filter internet speed"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is custom_output_extractor important?",
+    "options": [
+      "It lets developers structure results in a way other agents can use",
+      "It increases system RAM",
+      "It optimizes CPU fan speed",
+      "It manages network firewalls"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Example of custom_output_extractor is:",
+    "options": [
+      "Extracting only the 'answer' field from a tool’s JSON output",
+      "Changing the Wi-Fi password",
+      "Boosting screen refresh rate",
+      "Resetting laptop drivers"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "What is a benefit of using Agent as Tools?",
+    "options": [
+      "It allows modular design where agents can call specialized sub-agents",
+      "It reduces computer screen brightness",
+      "It makes the system boot faster",
+      "It installs antivirus updates"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

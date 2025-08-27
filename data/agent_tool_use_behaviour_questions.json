@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "The tool_use_behavior setting in agents primarily controls:",
+    "options": [
+      "How agents decide when and how to call tools",
+      "The speed of tool execution",
+      "The battery usage of tools",
+      "The file size of tool outputs"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If tool_use_behavior is set to INTERNAL, the agent:",
+    "options": [
+      "Automatically decides when to use a tool",
+      "Requires manual approval before tool use",
+      "Never calls tools under any condition",
+      "Sends tool calls to external API only"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which behavior corresponds to the agent relying entirely on external instructions for tool invocation?",
+    "options": [
+      "AUTONOMOUS",
+      "EXTERNAL",
+      "INTERNAL",
+      "PASSIVE"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "A bad tool_use_behavior setting can cause:",
+    "options": [
+      "Agent always calling tools unnecessarily",
+      "Agent never responding to user input",
+      "Faster internet consumption",
+      "Reduced file size of outputs"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "When tool_use_behavior is EXTERNAL, the agent:",
+    "options": [
+      "Waits for explicit instruction before calling tools",
+      "Uses tools independently without user input",
+      "Turns off all tools permanently",
+      "Compresses all tool outputs"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

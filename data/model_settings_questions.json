@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In Agentic AI, what do model settings primarily control?",
+    "options": [
+      "How the underlying AI model behaves and generates responses",
+      "The speed of the computer’s operating system",
+      "The encryption method for user files",
+      "The physical temperature of the CPU"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which of the following is commonly adjusted in model settings?",
+    "options": [
+      "Temperature, max tokens, and top_p",
+      "RAM size, disk partitions, and GPU voltage",
+      "File compression type and folder permissions",
+      "System clock speed and fan speed"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "What does the 'temperature' parameter in model settings influence?",
+    "options": [
+      "The randomness and creativity of responses",
+      "The physical cooling system of the device",
+      "The number of background processes running",
+      "The storage capacity of the hard drive"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If max_tokens is set too low in model settings, what can happen?",
+    "options": [
+      "The model may cut off responses prematurely",
+      "The CPU will automatically slow down",
+      "The operating system will switch languages",
+      "The agent will stop using external tools"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why might developers fine-tune model settings for different tasks?",
+    "options": [
+      "To optimize response length, style, and accuracy",
+      "To reduce the need for an internet connection",
+      "To increase physical memory size",
+      "To speed up graphics rendering"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

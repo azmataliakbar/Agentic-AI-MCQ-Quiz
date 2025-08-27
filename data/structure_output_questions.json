@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In Agentic AI, why is structured output important?",
+    "options": [
+      "It ensures agent responses follow a predictable format for downstream use",
+      "It compresses responses to reduce storage space",
+      "It speeds up the computer’s operating system",
+      "It encrypts data for network transmission"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which of the following is an example of structured output?",
+    "options": [
+      "Returning JSON with key-value pairs",
+      "Writing responses in random free-text",
+      "Displaying only images",
+      "Generating a binary file automatically"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "What can happen if an agent does NOT produce structured output when required?",
+    "options": [
+      "Downstream tools or systems may fail to parse the response correctly",
+      "The model will stop generating text",
+      "The operating system will shut down",
+      "The agent will always repeat the same output"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "In SDK-based frameworks, structured output is often enforced by:",
+    "options": [
+      "Schemas, validators, or output parsers",
+      "Hardware drivers and BIOS settings",
+      "Randomized response generators",
+      "System performance monitors"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why might developers prefer structured outputs like JSON or XML?",
+    "options": [
+      "They are machine-readable and integrate easily with other applications",
+      "They reduce the CPU temperature",
+      "They prevent the need for configuration files",
+      "They automatically compress log files"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

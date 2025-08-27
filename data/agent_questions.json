@@ -53,5 +53,60 @@
     ],
     "correct": 1,
     "level": "easy"
+  },
+  {
+    "question": "In Agentic AI, what is the primary role of an Agent?",
+    "options": [
+      "To store large datasets efficiently",
+      "To autonomously perceive, reason, and act towards goals",
+      "To execute only pre-programmed fixed tasks",
+      "To handle network routing and packet transfers"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "Which component allows an Agent to extend its capabilities beyond its core reasoning?",
+    "options": [
+      "Environment variables",
+      "Tools or APIs",
+      "Database indexes",
+      "Web browsers"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "How does an Agent differ from a simple script?",
+    "options": [
+      "Agents can adapt dynamically based on feedback",
+      "Scripts can rewrite themselves during execution",
+      "Agents cannot interact with external systems",
+      "Scripts always require user input at every step"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which of the following best describes an Agent’s reasoning loop?",
+    "options": [
+      "Input → Process → Output",
+      "Observe → Plan → Act → Learn",
+      "Store → Retrieve → Delete",
+      "Encode → Compile → Execute"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "Why are Agents considered more powerful than static applications?",
+    "options": [
+      "They consume less memory",
+      "They can continuously learn, adapt, and choose actions",
+      "They are written only in Python",
+      "They never require external tools"
+    ],
+    "correct": 1,
+    "level": "medium"
   }
 ]

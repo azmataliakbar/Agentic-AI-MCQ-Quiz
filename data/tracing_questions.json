@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In Agentic AI, what does tracing mainly help with?",
+    "options": [
+      "Tracking and understanding the agent’s reasoning and actions",
+      "Compressing log files into smaller sizes",
+      "Encrypting user passwords for security",
+      "Increasing the GPU performance"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is tracing useful when debugging an agent?",
+    "options": [
+      "It shows step-by-step how the agent made decisions",
+      "It permanently deletes old configurations",
+      "It automatically optimizes memory usage",
+      "It rewrites the system BIOS"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which of the following is a common challenge in tracing?",
+    "options": [
+      "Capturing detailed steps without overwhelming with too much data",
+      "Slowing down the device’s hard drive",
+      "Preventing the agent from accessing the internet",
+      "Reducing the agent’s maximum context length"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "In SDK-based frameworks, tracing is often implemented by:",
+    "options": [
+      "Event logs, hooks, or monitoring APIs",
+      "BIOS-level configuration files",
+      "Video rendering pipelines",
+      "Data compression scripts"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "What happens if tracing data is missing or incomplete?",
+    "options": [
+      "It becomes harder to reproduce or debug agent behavior",
+      "The agent automatically runs faster",
+      "The operating system updates itself",
+      "The agent refuses to accept new inputs"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

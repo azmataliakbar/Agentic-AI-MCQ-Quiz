@@ -53,5 +53,60 @@
     ],
     "correct": 3,
     "level": "easy"
+  },
+  {
+    "question": "In Agentic AI, what does 'handoff' typically refer to?",
+    "options": [
+      "Switching control from one agent or system to another",
+      "Restarting the operating system",
+      "Transferring files between cloud servers",
+      "Encrypting user credentials"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is handoff important in multi-agent workflows?",
+    "options": [
+      "It ensures tasks are efficiently delegated without losing context",
+      "It increases CPU speed",
+      "It compresses data for faster execution",
+      "It deletes unnecessary user inputs"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which factor is MOST critical during a handoff?",
+    "options": [
+      "The color scheme of the user interface",
+      "Maintaining state and context between agents",
+      "The physical storage capacity of the system",
+      "The internet bandwidth available"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "If a handoff is mismanaged, what can happen?",
+    "options": [
+      "Agents may produce inconsistent or conflicting outputs",
+      "The system’s RAM usage will automatically decrease",
+      "The operating system will switch languages",
+      "The agent will run twice as fast"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "In SDK-based agent frameworks, handoff is often handled by:",
+    "options": [
+      "Explicit function calls or event hooks",
+      "Randomized tool selection",
+      "Operating system schedulers",
+      "File compression algorithms"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

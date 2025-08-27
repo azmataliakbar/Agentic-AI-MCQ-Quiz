@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In handoff(), on_handoff is primarily used to:",
+    "options": [
+      "Execute custom logic whenever a handoff occurs",
+      "Restart the operating system",
+      "Measure disk space",
+      "Boost internet speed"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "A common use of on_handoff is:",
+    "options": [
+      "Logging or monitoring transitions between agents",
+      "Resetting the battery",
+      "Updating the GPU driver",
+      "Changing desktop themes"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If on_handoff is not defined, what happens?",
+    "options": [
+      "The handoff still occurs but without custom handling",
+      "The entire process will stop",
+      "The system automatically reboots",
+      "The data will be permanently deleted"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Developers can use on_handoff to:",
+    "options": [
+      "Trigger notifications or track state changes during agent handoff",
+      "Adjust the brightness of the screen",
+      "Compress large files",
+      "Format the hard disk"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which best describes on_handoff?",
+    "options": [
+      "A callback or hook tied to the handoff event",
+      "A tool for changing Wi-Fi signals",
+      "A program to extend RAM",
+      "A driver updater"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

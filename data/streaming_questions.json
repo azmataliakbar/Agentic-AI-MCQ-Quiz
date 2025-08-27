@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In Agentic AI, what does 'streaming' typically refer to?",
+    "options": [
+      "Delivering model outputs incrementally as they are generated",
+      "Downloading large files from the internet",
+      "Broadcasting video content online",
+      "Copying files from one disk to another"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is streaming useful in conversational agents?",
+    "options": [
+      "It allows users to see partial responses faster",
+      "It reduces the size of the model",
+      "It disables the need for external tools",
+      "It guarantees perfect accuracy in responses"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which challenge can occur with streaming in AI agents?",
+    "options": [
+      "Managing partial outputs and ensuring coherence",
+      "Slowing down the device’s CPU speed",
+      "Overwriting the agent’s configuration file",
+      "Changing the computer’s operating system"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "In SDK-based frameworks, how is streaming usually handled?",
+    "options": [
+      "Through event callbacks or async iterators",
+      "By storing data only in CSV format",
+      "Through BIOS-level configuration",
+      "By changing the system’s display settings"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Compared to non-streaming mode, streaming responses:",
+    "options": [
+      "Provide earlier user feedback but may require assembling chunks",
+      "Always use less memory regardless of context size",
+      "Run without requiring internet access",
+      "Automatically increase the agent’s reasoning accuracy"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

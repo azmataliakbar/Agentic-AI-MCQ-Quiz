@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "What is the primary purpose of 'reset_tool_choice' in agents?",
+    "options": [
+      "To permanently disable all tools",
+      "To clear or reset the current tool selection",
+      "To increase response length",
+      "To train the agent with new tools"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "When 'reset_tool_choice' is applied, what happens to the agent's tool selection?",
+    "options": [
+      "It is reset to no tool",
+      "It is set to the default system tool",
+      "It becomes locked until manual override",
+      "It automatically selects the best tool"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which scenario best illustrates the use of 'reset_tool_choice'?",
+    "options": [
+      "The agent needs to retry a step without a tool bias",
+      "The agent wants to permanently assign one tool",
+      "The agent needs to switch from text to voice mode",
+      "The agent is compressing multiple outputs"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If 'reset_tool_choice' is not used after a tool call, what might happen?",
+    "options": [
+      "The agent may continue reusing the same tool",
+      "The agent will disable conversation",
+      "The agent’s temperature value resets",
+      "The agent switches to parallel tool execution"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "How does 'reset_tool_choice' contribute to better tool handling?",
+    "options": [
+      "By ensuring fresh evaluation of tool use for each turn",
+      "By preventing any tool execution",
+      "By permanently fixing one tool to the agent",
+      "By disabling multi-turn context"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

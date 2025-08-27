@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "What does orchestrating multiple agents primarily involve?",
+    "options": [
+      "Coordinating agents so they can collaborate on complex tasks",
+      "Running the operating system in safe mode",
+      "Encrypting all agent outputs into binary format",
+      "Compressing large datasets before execution"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is orchestration important in multi-agent systems?",
+    "options": [
+      "It prevents conflicting actions and ensures task alignment",
+      "It increases the CPU clock speed",
+      "It guarantees permanent data storage",
+      "It eliminates the need for configuration files"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which is a common method for orchestrating multiple agents?",
+    "options": [
+      "Using a central controller or coordinator agent",
+      "Formatting outputs only in HTML",
+      "Running agents on separate physical devices",
+      "Storing all prompts in a binary file"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "What is one risk of poorly orchestrated agent collaboration?",
+    "options": [
+      "Agents may loop or compete, causing inefficiency",
+      "The agent system will increase GPU usage",
+      "Agents will disable system security features",
+      "The operating system will automatically restart"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "In SDK-based frameworks, orchestration logic often manages:",
+    "options": [
+      "Task allocation, communication flow, and dependency handling",
+      "The system’s BIOS configuration",
+      "Hardware drivers for external devices",
+      "The desktop’s graphical resolution"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

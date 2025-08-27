@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In Tools, name_override is used to:",
+    "options": [
+      "Change the display name of a tool",
+      "Update the Wi-Fi network name",
+      "Rename the operating system",
+      "Change the device hostname"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why might a developer use name_override for a tool?",
+    "options": [
+      "To provide a clearer or custom-friendly tool name",
+      "To reset the tool automatically",
+      "To adjust screen brightness",
+      "To change keyboard shortcuts"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If a tool originally called 'search_db' is renamed using name_override to 'Find Records', the agent will:",
+    "options": [
+      "Refer to it as 'Find Records' during execution",
+      "Forget the tool completely",
+      "Stop running database queries",
+      "Install new drivers"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "name_override mainly affects:",
+    "options": [
+      "How the agent or user refers to the tool",
+      "The tool’s hardware dependencies",
+      "The device’s internet connection",
+      "The graphics resolution of a system"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "A best practice for using name_override is:",
+    "options": [
+      "Make the tool name more descriptive and user-friendly",
+      "Always rename operating system files",
+      "Use it to increase CPU speed",
+      "Avoid providing tool descriptions"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

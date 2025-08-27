@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In Runner, Max Turns refers to:",
+    "options": [
+      "The maximum number of conversational exchanges an agent can have",
+      "The maximum speed of the processor",
+      "The highest brightness level of the monitor",
+      "The number of Wi-Fi networks available"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is Max Turns important in Runner?",
+    "options": [
+      "It prevents infinite or excessively long conversations",
+      "It increases the storage capacity",
+      "It reduces system fan noise",
+      "It controls screen resolution"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If Max Turns is set to 3, the agent will:",
+    "options": [
+      "Stop after 3 exchanges with the user",
+      "Turn off after 3 minutes",
+      "Reset the computer after 3 updates",
+      "Send 3 notifications per hour"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "What happens if Max Turns is not set?",
+    "options": [
+      "The conversation may continue indefinitely until stopped",
+      "The computer enters sleep mode automatically",
+      "The device lowers the volume to default",
+      "The operating system forces an update"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "A developer might lower Max Turns when:",
+    "options": [
+      "They want the agent to stay concise and avoid long loops",
+      "They want to reduce battery usage of the device",
+      "They are adjusting the screen’s refresh rate",
+      "They want to speed up system boot time"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

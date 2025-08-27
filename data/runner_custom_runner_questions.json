@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "A Custom Runner in agent systems is mainly used to:",
+    "options": [
+      "Define how the agent executes and manages tasks",
+      "Change the brightness of the system screen",
+      "Measure the CPU clock speed",
+      "Update the Wi-Fi settings"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "When would you typically use a Custom Runner?",
+    "options": [
+      "When the default Runner does not fit your workflow needs",
+      "When you want to install antivirus software",
+      "When connecting a USB device",
+      "When replacing the laptop’s hard drive"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "In a Custom Runner, developers can:",
+    "options": [
+      "Control execution flow, error handling, and tool usage",
+      "Only adjust system volume",
+      "Check printer queue status",
+      "Increase screen refresh rate"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Custom Runners are useful because they:",
+    "options": [
+      "Allow specialized control beyond the default Runner’s capabilities",
+      "Reduce the screen size automatically",
+      "Install graphic drivers",
+      "Reset system BIOS"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which scenario BEST demonstrates the need for a Custom Runner?",
+    "options": [
+      "An agent requires customized error recovery and task retries",
+      "A computer is running low on battery",
+      "A keyboard backlight needs adjustment",
+      "A system requires disk defragmentation"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

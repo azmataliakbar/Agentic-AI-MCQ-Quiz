@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In Runner, Context primarily represents:",
+    "options": [
+      "Relevant data passed into the agent to guide responses",
+      "The device’s screen brightness setting",
+      "The amount of RAM installed in the system",
+      "The internet download speed"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which of the following BEST illustrates Context in Runner?",
+    "options": [
+      "A user’s last query and conversation history",
+      "The keyboard typing speed",
+      "The system’s IP address",
+      "The battery percentage of a laptop"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is Context critical for an agent in Runner?",
+    "options": [
+      "It ensures the agent continues conversations logically",
+      "It helps increase internet bandwidth",
+      "It controls the operating system updates",
+      "It improves device hardware performance"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Without proper Context, an agent might:",
+    "options": [
+      "Lose track of conversation flow and provide irrelevant answers",
+      "Stop the Wi-Fi connection automatically",
+      "Shut down the CPU fan",
+      "Change the screen resolution"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "In Runner, Context is usually passed:",
+    "options": [
+      "As input to the model to maintain state and relevance",
+      "Directly to the Wi-Fi router",
+      "As a command to the graphics driver",
+      "To the device battery for power optimization"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

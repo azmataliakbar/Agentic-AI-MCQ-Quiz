@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "The is_enabled flag in handoff() controls:",
+    "options": [
+      "Whether the handoff logic is applied or skipped",
+      "The internet connection",
+      "The screen resolution",
+      "The battery usage"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If is_enabled is set to false in handoff():",
+    "options": [
+      "The agent will ignore handoff and continue normally",
+      "The system will crash",
+      "The agent will lose all memory",
+      "The Wi-Fi will disconnect"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why would a developer set is_enabled = false during testing?",
+    "options": [
+      "To disable handoff temporarily for debugging",
+      "To install updates",
+      "To optimize battery performance",
+      "To reset screen brightness"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "When is it best to keep is_enabled = true?",
+    "options": [
+      "When agents need to delegate tasks between each other",
+      "When installing hardware drivers",
+      "When formatting storage devices",
+      "When adjusting keyboard layout"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If is_enabled is set incorrectly, what could happen?",
+    "options": [
+      "The agent may skip or wrongly apply handoff",
+      "The operating system may reinstall",
+      "The battery will drain faster",
+      "The display will turn off"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

@@ -53,6 +53,61 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In handoff(), input_type defines:",
+    "options": [
+      "The format of data passed to the next agent",
+      "The number of retries allowed",
+      "The storage location of logs",
+      "The network bandwidth used"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is input_type important in handoff()?",
+    "options": [
+      "It ensures the receiving agent interprets the data correctly",
+      "It improves internet speed",
+      "It prevents memory leaks",
+      "It reduces hardware cost"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If input_type is set incorrectly, the most likely issue is:",
+    "options": [
+      "Data incompatibility between agents",
+      "Faster tool execution",
+      "Lower token usage",
+      "Automatic context reset"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which input_type setting is best for structured JSON data?",
+    "options": [
+      "text",
+      "structured",
+      "memory",
+      "parallel"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "input_type improves collaboration by:",
+    "options": [
+      "Standardizing the format of transferred data",
+      "Increasing model size",
+      "Disabling unused tools",
+      "Compressing system logs"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 
 ]

@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In Agentic AI, what is the role of hooks at the agent or run level?",
+    "options": [
+      "To monitor or modify events during an agent’s execution lifecycle",
+      "To increase GPU performance automatically",
+      "To store configuration files permanently",
+      "To compress logs into smaller file sizes"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which is a common use of run-level hooks?",
+    "options": [
+      "Capturing when a tool starts or finishes execution",
+      "Changing the operating system language",
+      "Reducing the memory capacity of the device",
+      "Encrypting all user input before storage"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why are hooks valuable for developers working with agents?",
+    "options": [
+      "They provide visibility and control over agent decisions and tool use",
+      "They increase the internet speed of the system",
+      "They eliminate the need for debugging tools",
+      "They allow BIOS updates to run faster"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "What could happen if hooks are misconfigured?",
+    "options": [
+      "Critical events may not be tracked, leading to debugging difficulties",
+      "The agent will automatically double its reasoning speed",
+      "The operating system will fail to boot",
+      "The agent will stop requiring a context window"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "In SDK-based frameworks, hooks are usually defined as:",
+    "options": [
+      "Callback functions triggered on specific events",
+      "System hardware drivers",
+      "File compression utilities",
+      "Static BIOS settings"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

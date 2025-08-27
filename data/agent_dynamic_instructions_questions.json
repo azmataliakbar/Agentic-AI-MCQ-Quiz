@@ -53,5 +53,61 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "Dynamic Instructions allow an agent to:",
+    "options": [
+      "Change behavior at runtime",
+      "Increase file size",
+      "Disable API keys",
+      "Speed up internet connection"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "What is the key benefit of Dynamic Instructions in agents?",
+    "options": [
+      "They enable context-aware customization",
+      "They compress data automatically",
+      "They improve battery performance",
+      "They replace environment variables"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "When using Dynamic Instructions, an agent can adapt based on:",
+    "options": [
+      "User input and changing contexts",
+      "Screen resolution",
+      "Keyboard layout",
+      "Network provider"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Dynamic Instructions are especially useful when:",
+    "options": [
+      "Different users require personalized outputs",
+      "We need faster hardware",
+      "We want to install drivers",
+      "We configure BIOS settings"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which of the following is true about Dynamic Instructions?",
+    "options": [
+      "They allow modifying agent prompts without restarting",
+      "They require additional hardware installation",
+      "They only work with offline models",
+      "They replace JSON output validation"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
+  
 ]

@@ -53,5 +53,61 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "The main role of guardrails in agent systems is to:",
+    "options": [
+      "Increase token efficiency",
+      "Ensure safe and policy-compliant behavior",
+      "Reduce response time",
+      "Expand model memory"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "If guardrails are not applied, an agent might:",
+    "options": [
+      "Generate unsafe or undesired outputs",
+      "Run faster with better latency",
+      "Automatically configure tools",
+      "Always choose the correct model"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which scenario best demonstrates the use of guardrails?",
+    "options": [
+      "Blocking an agent from accessing a restricted tool",
+      "Reducing the model’s temperature",
+      "Extending context window size",
+      "Automatically parallelizing tool calls"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Guardrails in agents often operate by:",
+    "options": [
+      "Filtering inputs and outputs against defined rules",
+      "Compressing the data stream",
+      "Improving hardware performance",
+      "Increasing top-k sampling"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "How do guardrails impact agent autonomy?",
+    "options": [
+      "They constrain autonomy by enforcing safety boundaries",
+      "They increase autonomy by removing restrictions",
+      "They have no effect on autonomy",
+      "They make agents faster and more independent"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
+  
 ]

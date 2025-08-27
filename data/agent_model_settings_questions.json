@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "The parameter 'temperature' in model settings primarily controls:",
+    "options": [
+      "Output randomness",
+      "Network latency",
+      "Battery efficiency",
+      "File size"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which parameter ensures that the model avoids repeating the same tokens too frequently?",
+    "options": [
+      "frequency_penalty",
+      "top_k",
+      "tool_choice",
+      "parallel_tool_calls"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "The 'top_p' parameter is associated with:",
+    "options": [
+      "Nucleus sampling",
+      "Temperature scaling",
+      "Parallel tool execution",
+      "Instruction cloning"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If an agent needs to restrict which tool is used, which setting should be adjusted?",
+    "options": [
+      "tool_choice",
+      "presence_penalty",
+      "temperature",
+      "top_k"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "The 'presence_penalty' setting is used to:",
+    "options": [
+      "Encourage new topics in responses",
+      "Compress large outputs",
+      "Reduce tool execution time",
+      "Select fewer tokens"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

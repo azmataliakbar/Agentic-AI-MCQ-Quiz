@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "In Tools, description_override allows developers to:",
+    "options": [
+      "Provide a custom explanation of what the tool does",
+      "Change the monitor’s resolution",
+      "Override the device language settings",
+      "Reset system drivers"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is description_override useful?",
+    "options": [
+      "It helps the agent better understand when to call the tool",
+      "It updates the system BIOS",
+      "It increases internet bandwidth",
+      "It improves keyboard response time"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "A well-written description_override should:",
+    "options": [
+      "Clearly explain the tool’s purpose and use case",
+      "Always contain device serial numbers",
+      "Be left blank for faster execution",
+      "Contain hardware instructions only"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "If the default tool description is unclear, description_override can:",
+    "options": [
+      "Replace it with a simpler or task-specific explanation",
+      "Turn off the CPU",
+      "Uninstall the tool",
+      "Control the battery level"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which scenario best shows description_override?",
+    "options": [
+      "Renaming 'weather_tool' description to 'Fetches current and forecasted weather by city'",
+      "Changing Wi-Fi password",
+      "Adjusting computer volume",
+      "Restarting device drivers"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]

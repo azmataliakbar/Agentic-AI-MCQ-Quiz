@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "Which output type allows an agent to return structured data like JSON?",
+    "options": [
+      "Text Output",
+      "Structured Output",
+      "Audio Output",
+      "Image Output"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "When using 'Text Output' type, what is the expected format of the agent’s response?",
+    "options": [
+      "Binary values",
+      "Plain human-readable language",
+      "JSON key-value pairs",
+      "Tabular CSV data"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "Which output type is best suited for machine-to-machine communication?",
+    "options": [
+      "Text Output",
+      "Structured Output",
+      "HTML Output",
+      "Audio Output"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "If an agent is expected to generate a chart or table directly consumable by visualization tools, which output type should be used?",
+    "options": [
+      "Text Output",
+      "Structured Output",
+      "Image Output",
+      "Audio Output"
+    ],
+    "correct": 1,
+    "level": "medium"
+  },
+  {
+    "question": "Why are multiple output types supported in agents?",
+    "options": [
+      "To reduce energy usage",
+      "To support diverse use cases like natural conversation and API-ready data",
+      "To improve debugging only",
+      "To increase hardware compatibility"
+    ],
+    "correct": 1,
+    "level": "medium"
   }
 ]

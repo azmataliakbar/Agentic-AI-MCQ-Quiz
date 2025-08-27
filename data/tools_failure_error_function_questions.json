@@ -53,5 +53,60 @@
     ],
     "correct": 0,
     "level": "easy"
+  },
+  {
+    "question": "failure_error_function in Tools is used to:",
+    "options": [
+      "Handle what happens if a tool fails during execution",
+      "Check laptop battery health",
+      "Detect internet speed",
+      "Measure CPU temperature"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Why is failure_error_function important?",
+    "options": [
+      "It ensures errors are caught and handled gracefully",
+      "It restarts the entire operating system",
+      "It increases hardware speed",
+      "It updates display drivers"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Which is an example of using failure_error_function?",
+    "options": [
+      "Logging the error and returning a fallback response",
+      "Increasing battery charge speed",
+      "Changing monitor brightness",
+      "Enabling safe mode"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "Without failure_error_function, a tool failure might:",
+    "options": [
+      "Cause the agent to crash or behave unexpectedly",
+      "Shut down the computer BIOS",
+      "Reset the internet connection",
+      "Lower the speaker volume"
+    ],
+    "correct": 0,
+    "level": "medium"
+  },
+  {
+    "question": "A developer might customize failure_error_function to:",
+    "options": [
+      "Retry the tool call or provide a default safe response",
+      "Reboot the hardware device",
+      "Stop the operating system updates",
+      "Encrypt system files"
+    ],
+    "correct": 0,
+    "level": "medium"
   }
 ]
