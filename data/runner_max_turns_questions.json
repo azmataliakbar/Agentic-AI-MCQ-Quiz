@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "In Runner, the Max Turns parameter prevents:",
+    "options": [
+      "Agents from entering infinite loops of self-calls",
+      "Agents from accessing system memory directly",
+      "APIs from generating duplicate JSON objects",
+      "Users from overriding default prompts"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What happens if Max Turns is set too low?",
+    "options": [
+      "Agent may terminate before completing a valid task",
+      "The CPU overheats",
+      "Output context becomes corrupted",
+      "Agent ignores the max token limit"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why is Max Turns crucial when agents interact with tools?",
+    "options": [
+      "Because recursive tool calls can continue indefinitely without a limit",
+      "Because system prompts become invalid without it",
+      "Because API keys expire after too many calls",
+      "Because JSON formatting requires fixed boundaries"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "If Max Turns is exceeded, the default behavior is usually:",
+    "options": [
+      "Terminate the agent loop with an error or safe return",
+      "Restart the runner automatically",
+      "Clear all context and reinitialize",
+      "Switch to a fallback model version"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "A developer should carefully tune Max Turns to balance:",
+    "options": [
+      "Agent completeness vs. risk of infinite looping",
+      "Battery usage vs. memory allocation",
+      "Brightness vs. response latency",
+      "User input speed vs. API quota"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What is the primary purpose of 'reset_tool_choice' in agent frameworks?",
+    "options": [
+      "To clear previously enforced tool selections and allow fresh decisions",
+      "To reset output types to plain text",
+      "To discard the agent’s conversation memory",
+      "To force temperature back to default"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "In what scenario is 'reset_tool_choice' most critical?",
+    "options": [
+      "When the agent is stuck repeatedly invoking the same tool due to prior state",
+      "When the model is generating overly long outputs",
+      "When the schema validation fails",
+      "When context tokens exceed the limit"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is the risk of not applying 'reset_tool_choice' in multi-turn agent sessions?",
+    "options": [
+      "Persistent tool bias may degrade accuracy",
+      "Parallel_tool_calls are disabled permanently",
+      "The model fails to apply frequency_penalty",
+      "Top_k sampling becomes locked to 1"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which mechanism best complements 'reset_tool_choice' to improve agent flexibility?",
+    "options": [
+      "Dynamic instructions that re-contextualize tool availability",
+      "Lowering top_p for consistent output",
+      "Applying high frequency_penalty",
+      "Disabling internal tool_use_behavior"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why might 'reset_tool_choice' be selectively applied instead of at every turn?",
+    "options": [
+      "To preserve efficiency while avoiding unnecessary state resets",
+      "To enforce deterministic sampling of tokens",
+      "To guarantee structured output types",
+      "To disable schema validation temporarily"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

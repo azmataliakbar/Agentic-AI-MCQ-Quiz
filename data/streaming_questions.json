@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "Why is streaming often used in agentic responses?",
+    "options": [
+      "To deliver partial outputs progressively and reduce latency perception",
+      "To disable context",
+      "To replace tool integration",
+      "To automatically compress logs"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is a common risk when using streaming with agents?",
+    "options": [
+      "Incomplete or interrupted responses if connection drops",
+      "Automatic handoff failures",
+      "Disabled tools",
+      "Reduced memory allocation"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which design consideration is important for streaming in multi-agent systems?",
+    "options": [
+      "Synchronizing partial outputs across agents to avoid conflicts",
+      "Reducing context size",
+      "Deleting tool calls",
+      "Disabling guardrails"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "How does streaming affect user experience?",
+    "options": [
+      "It improves perceived responsiveness",
+      "It removes reasoning",
+      "It hides agent outputs",
+      "It disables cloning"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which technology supports streaming in most agent frameworks?",
+    "options": [
+      "Server-Sent Events (SSE) or WebSockets",
+      "CSS Animations",
+      "Static HTML",
+      "File compression"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

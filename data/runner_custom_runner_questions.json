@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "In Runner, a Custom Runner is primarily used to:",
+    "options": [
+      "Override default execution behavior for agents",
+      "Control the brightness of the output window",
+      "Limit the maximum number of retries per call",
+      "Store the system prompt for reuse"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which scenario best requires implementing a Custom Runner?",
+    "options": [
+      "When integrating agent execution with external task orchestration",
+      "When displaying logs in a user-friendly format",
+      "When limiting API response size",
+      "When ensuring placeholder values are replaced"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "A Custom Runner allows developers to:",
+    "options": [
+      "Intercept and control the loop of tool execution",
+      "Modify the hardware driver settings",
+      "Increase screen refresh rates",
+      "Reduce context length automatically"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is a potential risk of misusing a Custom Runner?",
+    "options": [
+      "Infinite execution loops if termination is not handled",
+      "Loss of Internet connectivity",
+      "Exceeding the device’s RAM limit",
+      "Failing to register environment variables"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which of the following is NOT a typical responsibility of a Custom Runner?",
+    "options": [
+      "Controlling when the agent stops",
+      "Orchestrating external tool calls",
+      "Scheduling retry mechanisms",
+      "Managing API key rotation automatically"
+    ],
+    "correct": 3,
+    "level": "hard"
   }
 ]

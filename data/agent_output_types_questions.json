@@ -108,5 +108,60 @@
     ],
     "correct": 1,
     "level": "medium"
+  },
+  {
+    "question": "In agent design, why is specifying 'output types' crucial when orchestrating multi-step tasks?",
+    "options": [
+      "It determines how intermediate results are stored in memory",
+      "It ensures the agent produces responses aligned with downstream consumption requirements",
+      "It directly controls the token sampling process of the model",
+      "It eliminates the need for defining input types"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "If an agent is expected to produce structured JSON for another system, which aspect must be configured under 'output types'?",
+    "options": [
+      "Embedding dimensionality",
+      "Schema enforcement for the response format",
+      "Frequency penalty to reduce repetition",
+      "Temperature for deterministic outputs"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "How do 'output types' in an agent framework influence tool interoperability?",
+    "options": [
+      "They define what data transformations occur before invoking a tool",
+      "They restrict the range of models available to the agent",
+      "They control retry mechanisms when tools fail",
+      "They optimize the parallel execution of tool calls"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which scenario best illustrates a misconfiguration of 'output types' in an agent?",
+    "options": [
+      "The agent produces human-readable text when the consumer expects a JSON object",
+      "The agent selects a wrong model due to base URL mismatch",
+      "The agent executes multiple tools in parallel without batching",
+      "The agent exceeds the maximum context window size"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "In advanced agent pipelines, what is a reliable method to validate compliance with defined 'output types'?",
+    "options": [
+      "Implementing schema validation middleware",
+      "Reducing top_k to 1",
+      "Increasing frequency_penalty",
+      "Using parallel_tool_calls to cross-check output"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

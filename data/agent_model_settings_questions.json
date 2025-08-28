@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "When configuring 'tool_choice' in model settings, why might forcing a tool selection degrade agent performance?",
+    "options": [
+      "Because it bypasses the agent’s internal routing logic",
+      "Because it increases context window consumption",
+      "Because it reduces token sampling diversity",
+      "Because it disables output type enforcement"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "How do 'parallel_tool_calls' in model settings impact execution latency in agent workflows?",
+    "options": [
+      "They always reduce latency by distributing calls evenly",
+      "They may reduce latency but risk conflict when tools return incompatible outputs",
+      "They guarantee higher throughput without side effects",
+      "They automatically synchronize results into a unified schema"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Which combination of parameters would maximize creativity while minimizing repetition in agent outputs?",
+    "options": [
+      "temperature=0.9, frequency_penalty=0.7",
+      "temperature=0.2, top_p=0.3",
+      "top_k=1, presence_penalty=0.0",
+      "temperature=0.0, frequency_penalty=0.0"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why is 'top_k' sometimes preferred over 'top_p' in fine-grained agent control?",
+    "options": [
+      "Because it allows deterministic filtering of tokens by fixed size cutoff",
+      "Because it reduces the need for temperature tuning",
+      "Because it enforces schema validation at runtime",
+      "Because it guarantees JSON-compliant outputs"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which model setting adjustment best prevents an agent from repetitively suggesting the same tool in different contexts?",
+    "options": [
+      "Increase frequency_penalty",
+      "Lower top_p",
+      "Set temperature close to 0",
+      "Enable parallel_tool_calls"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

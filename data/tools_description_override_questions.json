@@ -108,5 +108,61 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What is the role of description_override in tools?",
+    "options": [
+      "It provides a custom description used during tool selection",
+      "It changes the tool’s source code execution",
+      "It limits API request length",
+      "It sets retry intervals"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why is description_override important for LLM-driven tool selection?",
+    "options": [
+      "It influences how the agent ranks and chooses tools",
+      "It modifies the system’s RAM usage",
+      "It prevents deadlocks in async calls",
+      "It forces a lower temperature setting"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "If description_override is misleading, what could happen?",
+    "options": [
+      "The agent may invoke irrelevant tools",
+      "The API key will be revoked",
+      "The tool will become invisible",
+      "The system will stop logging requests"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "When would description_override be especially useful?",
+    "options": [
+      "When adapting a generic tool for a domain-specific task",
+      "When debugging a memory leak",
+      "When changing the execution environment",
+      "When reducing token cost"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is a best practice when writing description_override?",
+    "options": [
+      "Use concise, clear, and domain-relevant language",
+      "Always encrypt the description text",
+      "Keep it empty for efficiency",
+      "Write descriptions in binary code"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
+
 ]

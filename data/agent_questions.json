@@ -108,5 +108,60 @@
     ],
     "correct": 1,
     "level": "medium"
+  },
+  {
+    "question": "In advanced agentic systems, how does an Agent differ from a traditional rule-based program?",
+    "options": [
+      "Agents rely on fixed scripts only",
+      "Agents adapt dynamically using reasoning and external tools",
+      "Agents cannot integrate with APIs",
+      "Agents only store user context without acting"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Which property makes an Agent suitable for long-running workflows?",
+    "options": [
+      "Stateless execution",
+      "Ability to maintain memory and context over interactions",
+      "Automatic deletion after execution",
+      "Strictly synchronous design"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "In multi-agent collaboration, what is the biggest challenge?",
+    "options": [
+      "Increasing API costs",
+      "Ensuring coordination and preventing conflicting actions",
+      "Cloning identical agents",
+      "Disabling reasoning capabilities"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Which scenario best highlights an Agent’s autonomy?",
+    "options": [
+      "Running a SQL query when instructed",
+      "Deciding between multiple tools without explicit human input",
+      "Waiting for manual user approval for every step",
+      "Only storing logs of previous tasks"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "In distributed environments, why might agent orchestration be required?",
+    "options": [
+      "To compress memory usage",
+      "To balance workloads and manage inter-agent communication",
+      "To remove tool integrations",
+      "To enforce synchronous execution"
+    ],
+    "correct": 1,
+    "level": "hard"
   }
 ]

@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "Which configuration parameter most directly controls an Agent’s access to external APIs?",
+    "options": [
+      "Prompt template",
+      "Tool configuration",
+      "Context window size",
+      "Response temperature"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Why is modular configuration important for Agents?",
+    "options": [
+      "It makes them execute only predefined scripts",
+      "It allows flexible swapping of tools and behaviors without retraining",
+      "It limits them to a single programming language",
+      "It ensures they never need guardrails"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "What happens if temperature and top_p are misconfigured in Agent settings?",
+    "options": [
+      "Agent refuses to run",
+      "Agent responses may become unstable or too repetitive",
+      "Agent automatically ignores them",
+      "Agent crashes immediately"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "In agent configuration, what does setting a small context window risk?",
+    "options": [
+      "Increased accuracy",
+      "Loss of important past interactions",
+      "Automatic expansion of memory",
+      "Unlimited reasoning loops"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Which is the best practice when configuring sensitive agents for enterprise?",
+    "options": [
+      "Disable logs and version control",
+      "Use environment variables and secret managers for API keys",
+      "Hardcode credentials directly in prompts",
+      "Avoid modular design"
+    ],
+    "correct": 1,
+    "level": "hard"
   }
 ]

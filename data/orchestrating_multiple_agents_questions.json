@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "In multi-agent orchestration, what is the primary challenge?",
+    "options": [
+      "Ensuring agents operate in complete isolation",
+      "Coordinating agent roles and avoiding conflicting actions",
+      "Reducing memory size of each agent",
+      "Disabling tool integration for consistency"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Which strategy is often used to manage orchestration across multiple agents?",
+    "options": [
+      "Static handoff only",
+      "Centralized coordinator or orchestrator agent",
+      "Disabling guardrails",
+      "Cloning every agent"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "What problem can arise when multiple agents share the same context without orchestration?",
+    "options": [
+      "Improved latency",
+      "Context leakage and contradictory outputs",
+      "Reduced costs",
+      "Better guardrail enforcement"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Which pattern is common in orchestrating specialized agents?",
+    "options": [
+      "Master-worker or manager-worker design",
+      "Hardcoding a single agent only",
+      "Always streaming outputs",
+      "Forcing agents to share identical IDs"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why might orchestration use priority-based scheduling?",
+    "options": [
+      "To reduce context window size",
+      "To resolve conflicting actions by ranking agent outputs",
+      "To prevent tool execution",
+      "To eliminate tracing"
+    ],
+    "correct": 1,
+    "level": "hard"
   }
 ]

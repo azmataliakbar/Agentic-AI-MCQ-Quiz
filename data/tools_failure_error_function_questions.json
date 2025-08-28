@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What is failure_error_function primarily used for?",
+    "options": [
+      "Defining custom error handling when a tool fails",
+      "Speeding up API calls",
+      "Encrypting response payloads",
+      "Modifying token sampling"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "How does failure_error_function enhance resilience?",
+    "options": [
+      "By allowing fallback logic instead of abrupt termination",
+      "By reducing input size automatically",
+      "By caching tokens for reuse",
+      "By doubling execution speed"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "If failure_error_function is not defined, what is the default behavior?",
+    "options": [
+      "The agent will surface raw tool errors",
+      "The agent will retry with exponential backoff",
+      "The agent will disable all tools",
+      "The system reboots automatically"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which scenario best demonstrates failure_error_function?",
+    "options": [
+      "Redirecting a failed weather API call to a cached response",
+      "Changing the description_override",
+      "Toggling is_enabled mid-execution",
+      "Renaming the tool dynamically"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why should developers log inside failure_error_function?",
+    "options": [
+      "To capture insights about recurring failure patterns",
+      "To reduce token usage",
+      "To auto-enable disabled tools",
+      "To rewrite schema dynamically"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

@@ -108,6 +108,61 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What is the role of guardrails in agent workflows?",
+    "options": [
+      "To enforce safety and restrict harmful or undesired outputs",
+      "To increase randomness",
+      "To automatically expand context",
+      "To compress streaming"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which guardrail approach prevents prompt injection attacks?",
+    "options": [
+      "Input sanitization and instruction filtering",
+      "Reducing context window",
+      "Cloning the agent",
+      "Disabling streaming"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is a limitation of rule-based guardrails?",
+    "options": [
+      "They can miss novel or adversarial patterns",
+      "They disable tools",
+      "They increase latency dramatically",
+      "They block context saving"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why combine guardrails with tracing?",
+    "options": [
+      "To ensure violations are detected and auditable",
+      "To reduce prompt tokens",
+      "To disable agents",
+      "To avoid using APIs"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which is a practical challenge in guardrail implementation?",
+    "options": [
+      "Balancing strictness with flexibility to avoid false positives",
+      "Preventing cloning",
+      "Eliminating streaming",
+      "Fixing agent IDs"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
   
 ]

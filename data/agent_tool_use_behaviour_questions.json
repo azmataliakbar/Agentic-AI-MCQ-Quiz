@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "In agent behavior, what does 'tool_use_behavior' primarily define?",
+    "options": [
+      "Whether tool invocations are controlled internally or externally",
+      "How often tools are retrained with new data",
+      "Which temperature is applied during tool calls",
+      "Whether tools can override output type constraints"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "If tool_use_behavior is set to INTERNAL, what is the direct implication for agent execution?",
+    "options": [
+      "The agent decides autonomously when to invoke tools",
+      "The developer must explicitly call tools in every step",
+      "Parallel_tool_calls are disabled by default",
+      "Output types cannot be enforced"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "When would EXTERNAL tool_use_behavior be more beneficial?",
+    "options": [
+      "When the agent must expose control of tool invocation to an external orchestrator",
+      "When schema validation is automatically required",
+      "When all tools must execute in parallel",
+      "When presence_penalty needs to be maximized"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What potential issue arises if tool_use_behavior is mismatched with the orchestration design?",
+    "options": [
+      "The agent may either underuse or overuse tools inappropriately",
+      "The model fails to apply frequency_penalty correctly",
+      "Output types default to plain text only",
+      "The context length is automatically reduced"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which debugging step best isolates problems from incorrect tool_use_behavior configuration?",
+    "options": [
+      "Log decision traces of when tools are invoked",
+      "Reduce top_p to 0.1",
+      "Force reset_tool_choice after each turn",
+      "Apply temperature=0.0 for deterministic outputs"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

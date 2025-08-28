@@ -108,6 +108,61 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "When using dynamic instructions, what is the main advantage compared to static prompts?",
+    "options": [
+      "They allow context-aware adaptation during runtime",
+      "They guarantee zero token usage",
+      "They replace the model’s base weights permanently",
+      "They ensure fixed deterministic outputs"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which of the following best describes how dynamic instructions influence agent decisions?",
+    "options": [
+      "They override system prompts without constraints",
+      "They act as temporary modifications injected into the prompt pipeline",
+      "They permanently alter agent memory storage",
+      "They bypass model safety layers completely"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "A developer wants the agent to change its tone depending on user sentiment detected in input. Which technique should be used?",
+    "options": [
+      "Static system message",
+      "Dynamic instructions adapting to sentiment analysis",
+      "Parallel tool calls",
+      "Reset_tool_choice"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "If dynamic instructions conflict with the original system prompt, what is the expected behavior?",
+    "options": [
+      "The agent ignores all instructions",
+      "The model merges both but system prompt usually has higher priority",
+      "Dynamic instructions always override everything",
+      "Execution halts until user clarification"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Which scenario demonstrates the most effective use of dynamic instructions?",
+    "options": [
+      "Changing model architecture without retraining",
+      "Injecting temporary rules like ‘answer as a lawyer only for this request’",
+      "Storing agent state permanently across sessions",
+      "Encrypting API responses for security"
+    ],
+    "correct": 1,
+    "level": "hard"
   }
   
 ]

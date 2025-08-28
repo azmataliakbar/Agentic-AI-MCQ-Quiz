@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What does structured output enforce in agent responses?",
+    "options": [
+      "That outputs follow a predefined schema such as JSON",
+      "That agents disable tool use",
+      "That context is removed",
+      "That only streaming is used"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why is structured output important for downstream applications?",
+    "options": [
+      "It ensures machine-readable, predictable data for integrations",
+      "It increases randomness of responses",
+      "It prevents orchestration",
+      "It forces lower token costs"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which method is commonly used to enforce structured output?",
+    "options": [
+      "JSON schema validation",
+      "Temperature = 0",
+      "Disabling hooks",
+      "Guardrail-only enforcement"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What risk arises when structured output constraints are too strict?",
+    "options": [
+      "Model may fail to generate valid responses or get stuck in retries",
+      "Context window automatically expands",
+      "Guardrails are disabled",
+      "Orchestration becomes unnecessary"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "How can structured output and orchestration work together?",
+    "options": [
+      "Structured responses enable agents to reliably share data across workflows",
+      "They both disable hooks",
+      "They remove the need for temperature settings",
+      "They increase randomness of execution"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

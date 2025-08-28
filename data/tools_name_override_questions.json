@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "When using name_override in a tool definition, what is its primary function?",
+    "options": [
+      "It changes the display name of the tool without altering its underlying identifier",
+      "It changes the tool's execution logic",
+      "It encrypts the tool name for security",
+      "It disables the tool until renamed"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "If two tools have the same default name but one uses name_override, what problem does it solve?",
+    "options": [
+      "Prevents namespace collisions in agent responses",
+      "Increases API call speed",
+      "Prevents tool failure recovery",
+      "Forces sequential tool execution"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why might a developer use name_override instead of changing the tool’s source name?",
+    "options": [
+      "To avoid editing third-party or shared tool definitions",
+      "To reduce memory leaks",
+      "To compress JSON payloads",
+      "To add authentication"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which of the following can be a risk if name_override is misused?",
+    "options": [
+      "Agents might select the wrong tool due to ambiguous naming",
+      "Tools will execute faster than expected",
+      "Agent output will automatically convert to YAML",
+      "The system clock will reset"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "In debugging, how does name_override help?",
+    "options": [
+      "By assigning a context-specific alias to trace tool usage",
+      "By forcing error retries automatically",
+      "By hiding stack traces from logs",
+      "By reducing latency by 50%"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

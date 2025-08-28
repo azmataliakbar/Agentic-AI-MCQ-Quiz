@@ -108,6 +108,61 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "In handoff(), input_type is used to:",
+    "options": [
+      "Define the structured format of data that the handoff will accept",
+      "Control how many retries the runner allows",
+      "Automatically reset the context after each call",
+      "Specify which downstream function is triggered"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why must input_type be clearly defined in handoff()?",
+    "options": [
+      "To prevent invalid or unexpected data from being passed during the handoff",
+      "To enable GPU acceleration automatically",
+      "To increase the context window dynamically",
+      "To block retries beyond max_turns"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "If input_type is mismatched with the provided data during handoff, the result is usually:",
+    "options": [
+      "A validation or type error preventing execution",
+      "A fallback to default tool_choice",
+      "A reset of presence_penalty",
+      "A silent skip of on_handoff"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "In advanced handoff workflows, input_type is often backed by:",
+    "options": [
+      "Schemas or typed objects that enforce strong validation",
+      "GPU drivers that optimize input pipelines",
+      "Random sampling of user inputs",
+      "OS kernel updates during runtime"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which best describes the difference between input_type and input_filter?",
+    "options": [
+      "input_type enforces structure of data, input_filter validates content against rules",
+      "input_type blocks unwanted inputs, input_filter changes schema",
+      "input_type decides max_turns, input_filter sets token length",
+      "input_type adjusts context, input_filter stores session"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 
 ]

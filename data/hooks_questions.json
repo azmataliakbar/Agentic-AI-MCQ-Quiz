@@ -108,5 +108,61 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What is the role of a hook at the agent level?",
+    "options": [
+      "To intercept events like initialization or tool invocation for customization",
+      "To delete agent configurations",
+      "To reduce memory window size",
+      "To enforce guardrails only"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "How do run-level hooks differ from agent-level hooks?",
+    "options": [
+      "Run-level hooks apply across the execution lifecycle, while agent hooks apply to specific agent events",
+      "Run-level hooks only adjust temperature",
+      "Agent-level hooks disable orchestration",
+      "They are identical in scope"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What problem can poorly implemented hooks introduce?",
+    "options": [
+      "Unnecessary latency or blocking agent execution",
+      "Automatic context summarization",
+      "Guaranteed safe outputs",
+      "Reduced memory size only"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which is an advanced use of hooks in multi-agent systems?",
+    "options": [
+      "Logging and altering messages between agents for orchestration",
+      "Hardcoding responses",
+      "Disabling all tools",
+      "Replacing model sampling with static text"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why might hooks be critical in enterprise agent workflows?",
+    "options": [
+      "They allow monitoring, compliance checks, and custom behavior injection",
+      "They disable streaming for security",
+      "They automatically improve latency",
+      "They replace guardrails completely"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
+
 ]

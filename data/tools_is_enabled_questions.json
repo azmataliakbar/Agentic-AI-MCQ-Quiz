@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What does is_enabled flag control in tools?",
+    "options": [
+      "Whether the tool is available for agent use",
+      "The logging level of tool output",
+      "The speed of model training",
+      "The encryption of tool metadata"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "If is_enabled is set to false, what is the behavior?",
+    "options": [
+      "The tool is excluded from tool selection process",
+      "The tool executes but results are hidden",
+      "The agent retries until success",
+      "The tool still runs in debug mode only"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why might a developer dynamically toggle is_enabled?",
+    "options": [
+      "To enable or disable tools based on runtime context or user permissions",
+      "To reduce GPU memory usage",
+      "To shorten the JSON schema",
+      "To enable batch API mode"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is a potential issue if is_enabled flags are not managed carefully?",
+    "options": [
+      "Agents may attempt to call unavailable tools",
+      "Tools will consume more bandwidth",
+      "Descriptions will reset to default",
+      "Tokens will automatically duplicate"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which is a valid use case for setting is_enabled=false?",
+    "options": [
+      "Temporarily disabling a tool during maintenance",
+      "Encrypting tool results",
+      "Shortening inference time",
+      "Adding temperature sampling"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

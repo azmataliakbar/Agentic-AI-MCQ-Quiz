@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What does tracing primarily enable in agent systems?",
+    "options": [
+      "Visibility into decision steps, tool calls, and reasoning paths",
+      "Faster context compression",
+      "Automatic handoff skipping",
+      "Reduced streaming latency"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which tracing metric is most useful for debugging tool errors?",
+    "options": [
+      "Response latency",
+      "Execution logs of tool invocations",
+      "Context token count",
+      "Streaming packet size"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "How does tracing support compliance in enterprise AI?",
+    "options": [
+      "By providing auditable logs of agent actions and decisions",
+      "By disabling agents automatically",
+      "By compressing prompts",
+      "By preventing guardrail violations"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which issue arises if tracing data is stored insecurely?",
+    "options": [
+      "Sensitive context and user data leaks",
+      "Improved transparency",
+      "Reduced API usage",
+      "Automatic guardrail strengthening"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is a best practice for tracing in production systems?",
+    "options": [
+      "Mask sensitive data before logging while retaining workflow insights",
+      "Store all user inputs in plaintext",
+      "Disable tracing to reduce costs",
+      "Always clone agents for tracing"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

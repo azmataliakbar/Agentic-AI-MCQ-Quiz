@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "The role of on_handoff in handoff() is to:",
+    "options": [
+      "Define the callback or action executed once handoff conditions are met",
+      "Filter input before handoff occurs",
+      "Toggle the is_enabled flag automatically",
+      "Store the maximum context tokens"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "If on_handoff is missing or misconfigured:",
+    "options": [
+      "Handoff may occur but the downstream action fails to trigger",
+      "The agent automatically resets context",
+      "The runner increases max_turns",
+      "The input_filter bypasses validation"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "How does on_handoff relate to input_filter?",
+    "options": [
+      "input_filter decides if input is eligible; on_handoff defines the resulting behavior",
+      "on_handoff validates schema, input_filter sets context",
+      "on_handoff overrides is_enabled, input_filter sets retries",
+      "Both perform identical validation"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why might on_handoff include logging or auditing functionality?",
+    "options": [
+      "To record when handoffs occurred and why, aiding debugging and monitoring",
+      "To adjust GPU memory allocation",
+      "To automatically rotate API keys",
+      "To increase context window size"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which is NOT a valid use of on_handoff?",
+    "options": [
+      "Triggering a downstream workflow",
+      "Sending notifications",
+      "Invoking an external service",
+      "Modifying the operating system kernel directly"
+    ],
+    "correct": 3,
+    "level": "hard"
   }
 ]

@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What is the main advantage of tools in an Agent’s design?",
+    "options": [
+      "They provide external capabilities beyond the LLM’s native reasoning",
+      "They reduce the need for prompts",
+      "They disable memory usage",
+      "They automatically expand context"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why is tool validation critical?",
+    "options": [
+      "To ensure tools don’t override prompt templates",
+      "To prevent misuse or malicious execution of APIs",
+      "To allow cloning of agents",
+      "To improve response speed"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "When an Agent always calls a translation tool unnecessarily, what is the issue?",
+    "options": [
+      "Improper tool-use behavior configuration",
+      "Limited context window",
+      "Overloaded tracing",
+      "Low temperature value"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What must be ensured when integrating third-party tools?",
+    "options": [
+      "Credentials and permissions are securely managed",
+      "They run synchronously only",
+      "They share the same programming language",
+      "They delete all context after each call"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "How do agents decide which tool to invoke?",
+    "options": [
+      "Predefined hardcoded mapping",
+      "Reasoning based on prompt instructions and tool schema",
+      "Random selection",
+      "Default execution of all available tools"
+    ],
+    "correct": 1,
+    "level": "hard"
   }
 ]

@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What does 'handoff' in agent workflows primarily achieve?",
+    "options": [
+      "Switching to a different agent or system when current agent cannot continue",
+      "Deleting current agent’s memory",
+      "Reducing latency by cutting responses",
+      "Encrypting all agent messages"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "In a customer support scenario, which is a correct handoff example?",
+    "options": [
+      "Agent passes the chat to a human operator after escalation",
+      "Agent deletes all history",
+      "Agent ends the session silently",
+      "Agent repeats the same response endlessly"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is the risk if handoff logic is poorly implemented?",
+    "options": [
+      "Improved reliability",
+      "User confusion and broken workflows",
+      "Increased memory efficiency",
+      "Reduced need for tracing"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Which element often triggers a handoff event in multi-agent systems?",
+    "options": [
+      "Context overflow or unmet capability",
+      "Temperature setting",
+      "Disabled streaming",
+      "Tool version mismatch"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "How can handoff be optimized in enterprise workflows?",
+    "options": [
+      "By ensuring transparent data passing and minimal loss of context",
+      "By disabling multi-agent orchestration",
+      "By hardcoding agents with no exit logic",
+      "By never integrating with external systems"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

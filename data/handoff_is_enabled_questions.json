@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "The flag is_enabled in handoff() primarily controls:",
+    "options": [
+      "Whether the handoff mechanism is active or bypassed",
+      "The maximum number of tool calls allowed",
+      "The size of the agent’s context window",
+      "The temperature of the model during execution"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "A practical reason to toggle is_enabled dynamically is:",
+    "options": [
+      "To activate or disable handoff without redeploying code",
+      "To increase token sampling efficiency",
+      "To automatically validate schema",
+      "To improve GPU thread allocation"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "If is_enabled is False, then:",
+    "options": [
+      "handoff() is skipped and normal execution continues",
+      "input_filter is ignored",
+      "on_handoff triggers automatically",
+      "The model resets presence_penalty"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is a potential risk if is_enabled is accidentally set to False?",
+    "options": [
+      "Handoffs are unintentionally bypassed, causing workflow failures",
+      "Context length increases unexpectedly",
+      "Max_turns resets to zero",
+      "API key rotation stops"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which scenario best benefits from toggling is_enabled?",
+    "options": [
+      "When rolling out handoff gradually across environments",
+      "When managing OS kernel updates",
+      "When running low on GPU resources",
+      "When adjusting presence_penalty"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

@@ -108,5 +108,61 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What is a key advantage of using Agent as Tools?",
+    "options": [
+      "It allows modular composition where one agent acts as a callable sub-tool",
+      "It automatically speeds up all agents",
+      "It replaces system prompts",
+      "It encrypts user queries"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What role does custom_output_extractor play in Agent as Tools?",
+    "options": [
+      "It processes and formats the sub-agent’s raw output for the parent agent",
+      "It encrypts intermediate messages",
+      "It prevents tool collisions",
+      "It disables unused agents"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why is custom_output_extractor critical in multi-agent workflows?",
+    "options": [
+      "Because raw outputs may not align with the expected schema of the parent agent",
+      "Because it controls GPU memory allocation",
+      "Because it prevents token sampling errors",
+      "Because it increases frequency penalty"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "If custom_output_extractor is poorly implemented, what issue may arise?",
+    "options": [
+      "The parent agent may misinterpret sub-agent outputs",
+      "The agent will stop all logging",
+      "The sub-agent will disable itself",
+      "The description_override resets automatically"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What best practice applies when designing custom_output_extractor?",
+    "options": [
+      "Always map outputs into a predictable schema for parent agent use",
+      "Always leave extraction empty",
+      "Always force a retry loop",
+      "Write extractors in binary format"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
+
 ]

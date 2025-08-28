@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What does temperature primarily control in model settings?",
+    "options": [
+      "Probability distribution sharpness in token sampling",
+      "Number of tokens allowed in context",
+      "Execution order of tools",
+      "Response latency"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "How does Top P differ from Top K sampling?",
+    "options": [
+      "Top P uses cumulative probability, Top K fixes number of candidates",
+      "Top P always reduces randomness, Top K increases it",
+      "Top P controls tool choices, Top K controls temperature",
+      "They are identical in behavior"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What risk arises from setting Top K too low?",
+    "options": [
+      "The model always outputs random tokens",
+      "Reduced diversity and possible repetitive outputs",
+      "Context overflow errors",
+      "Failure of agent orchestration"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Which combination of settings generally increases creativity but reduces determinism?",
+    "options": [
+      "High temperature and high Top P",
+      "Low temperature and low Top K",
+      "Zero temperature with Top P = 0.1",
+      "Disabling all tools"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "In tool-enabled models, how can model settings influence tool invocation?",
+    "options": [
+      "They adjust reasoning pathways, impacting when or whether a tool is selected",
+      "They directly delete unused tools",
+      "They reset agent IDs",
+      "They disable orchestration automatically"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

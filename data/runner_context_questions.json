@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "In Runner, Context refers to:",
+    "options": [
+      "Structured information carried across agent turns",
+      "The file system path of the local runner",
+      "The kernel version of the operating system",
+      "The default value of tool_choice"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why is Context critical for maintaining coherence in multi-turn interactions?",
+    "options": [
+      "It ensures previous state and instructions are preserved between calls",
+      "It controls GPU allocation",
+      "It determines the max_tokens parameter automatically",
+      "It prevents model temperature from resetting"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What happens if Context is not passed properly in Runner?",
+    "options": [
+      "Agent may lose memory of prior steps and restart reasoning incorrectly",
+      "The system clock stops updating",
+      "The hardware drivers become unresponsive",
+      "The max_turns resets to unlimited"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "In advanced usage, Context can be extended to:",
+    "options": [
+      "Include external session data or task metadata",
+      "Modify the OS kernel directly",
+      "Update the agent’s binary code",
+      "Change the temperature value permanently"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Which is the most accurate description of Context vs. Max Turns?",
+    "options": [
+      "Context stores conversation state, while Max Turns controls loop length",
+      "Context sets token limit, while Max Turns controls GPU usage",
+      "Context defines tool priority, while Max Turns defines JSON size",
+      "Context handles retries, while Max Turns sets temperature"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

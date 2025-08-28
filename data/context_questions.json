@@ -108,5 +108,60 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "What is the core challenge of managing context in agents?",
+    "options": [
+      "Ensuring CSS styling is correct",
+      "Preserving relevant information while avoiding overflow",
+      "Reducing number of tools",
+      "Handoff always fails"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Which approach best helps with limited context windows?",
+    "options": [
+      "Summarization and memory compression techniques",
+      "Disabling tools",
+      "Switching programming language",
+      "Randomizing tokens"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "In multi-turn conversations, context leakage may result in?",
+    "options": [
+      "Unintended sharing of sensitive info between tasks",
+      "Improved reasoning accuracy",
+      "Lower API latency",
+      "Automatic context reset"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why is dynamic context management essential for agents?",
+    "options": [
+      "It ensures prompts remain relevant even as conversation grows",
+      "It prevents cloning",
+      "It guarantees streaming is disabled",
+      "It fixes all handoff errors automatically"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is a potential downside of large context windows?",
+    "options": [
+      "Higher costs and slower responses",
+      "Reduced recall of information",
+      "Elimination of handoff logic",
+      "Inability to trace execution"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 ]

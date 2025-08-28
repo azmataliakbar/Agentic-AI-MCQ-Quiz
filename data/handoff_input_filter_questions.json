@@ -108,6 +108,61 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "The purpose of input_filter in handoff() is to:",
+    "options": [
+      "Determine whether specific inputs should be allowed, blocked, or transformed",
+      "Control how many turns the runner executes",
+      "Automatically clear the agent context",
+      "Set default values for frequency_penalty"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "If input_filter always returns False, then:",
+    "options": [
+      "No input is accepted, and the handoff never occurs",
+      "Context size is doubled automatically",
+      "on_handoff is triggered without validation",
+      "The runner ignores max_turns"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "Why might input_filter use pattern matching (e.g., regex)?",
+    "options": [
+      "To validate that only correctly formatted inputs trigger a handoff",
+      "To optimize GPU memory usage",
+      "To dynamically change model temperature",
+      "To enforce the retry limit on external tools"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "The difference between input_filter and on_handoff is:",
+    "options": [
+      "input_filter decides eligibility of input, on_handoff defines action after acceptance",
+      "input_filter sets schema, on_handoff blocks retries",
+      "input_filter modifies context, on_handoff sets max_turns",
+      "input_filter stores logs, on_handoff validates tokens"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is the risk of designing an overly strict input_filter?",
+    "options": [
+      "Valid inputs may be rejected, blocking necessary handoffs",
+      "The model will consume more tokens",
+      "The handoff will ignore is_enabled",
+      "The system temperature parameter resets"
+    ],
+    "correct": 0,
+    "level": "hard"
   }
 
 ]

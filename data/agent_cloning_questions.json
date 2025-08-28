@@ -108,6 +108,61 @@
     ],
     "correct": 0,
     "level": "medium"
+  },
+  {
+    "question": "When cloning an agent, which aspect is typically NOT duplicated?",
+    "options": [
+      "Configuration settings",
+      "Training data",
+      "Unique identifiers (like Agent ID)",
+      "Tools and integrations"
+    ],
+    "correct": 2,
+    "level": "hard"
+  },
+  {
+    "question": "Why is cloning an agent useful in production environments?",
+    "options": [
+      "To run experiments without altering the original agent",
+      "To delete all past responses",
+      "To downgrade performance for testing",
+      "To prevent backups from being created"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "What is the main risk of cloning an agent with sensitive data?",
+    "options": [
+      "It may automatically encrypt the data",
+      "Sensitive data may be unintentionally duplicated",
+      "The clone will have no access to tools",
+      "The cloned agent cannot be deployed"
+    ],
+    "correct": 1,
+    "level": "hard"
+  },
+  {
+    "question": "In advanced agent systems, cloning is often combined with which strategy to improve performance?",
+    "options": [
+      "Load balancing across cloned instances",
+      "Switching programming languages",
+      "Turning off cloned copies",
+      "Reducing memory allocation"
+    ],
+    "correct": 0,
+    "level": "hard"
+  },
+  {
+    "question": "When cloning an agent, what should be done to avoid conflicts in a multi-agent setup?",
+    "options": [
+      "Keep identical identifiers for easy tracking",
+      "Assign new unique identifiers to cloned agents",
+      "Disable all cloned agents immediately",
+      "Merge the clone back with the original"
+    ],
+    "correct": 1,
+    "level": "hard"
   }
 
 ]
